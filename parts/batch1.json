@@ -1,0 +1,1355 @@
+{
+ "videos": [
+  {
+   "video_file": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt",
+   "title_guess": "The Closing Room (Nov 10, 2026) – Top Producer John Stevenson on Trust, Capping the Company, and Video-Based Selling",
+   "summary": "Weekly Closing Room training call hosted by COO Bruce Jensen featuring John Stevenson, described as Annuity.com's #1 producer who works with no staff, relying on systems. John explains how the annuity.com brand, agent 'ownership' (stock earned by production) and search visibility transfer trust to him when clients vet him online. Bruce explains the 'Cap the Company' program and John describes capping in 6 months, then 3 months, then ~5 weeks, and reinvesting overrides into marketing. John then screen-shares Annuity Genius to show how he answers MYGA inquiries with personalized screen-recorded videos that compare MYGAs, ratings and income riders transparently. He ends with a contrarian follow-up philosophy: provide heavy value up front, act unneedy, and never chase.",
+   "entities": [
+    {
+     "name": "John Stevenson",
+     "type": "person (agent)",
+     "description": "Top producer at Annuity.com ('guaranteed retirement guy' per other videos); former Las Vegas agent with a physical office and college seminars; wrote a book (~$25K); capped the company multiple times; the Closing Room guest."
+    },
+    {
+     "name": "Bruce Jensen",
+     "type": "person (Annuity.com COO)",
+     "description": "Hosts/co-hosts Closing Room; explains Cap the Company program; says he came out of retirement to join because he loves/trusts Brett."
+    },
+    {
+     "name": "Brett Blake",
+     "type": "person (Annuity.com CEO)",
+     "description": "Referenced as having said organic leads are starting to flow to agents; leader whose character Bruce credits."
+    },
+    {
+     "name": "Annuity.com",
+     "type": "company (IMO/distributor, industry URL)",
+     "description": "Brand/IMO; provides back-end support, agent profile/website, LeadPro, ownership (stock) program, Cap the Company override program."
+    },
+    {
+     "name": "ECA Marketing",
+     "type": "company",
+     "description": "Back-office/marketing support provider that John says has supported him; before Annuity.com built out its own back end."
+    },
+    {
+     "name": "Leia, Christine, Amy",
+     "type": "people (Annuity.com team)",
+     "description": "Back-end team members John thanks by first name (surnames not given)."
+    },
+    {
+     "name": "Annuity Genius",
+     "type": "product/software (third-party)",
+     "description": "Annuity rate/illustration comparison tool John uses to pull MYGA, FIA, income rider comparisons; John notes there are competitors."
+    },
+    {
+     "name": "LeadPro",
+     "type": "product (Annuity.com)",
+     "description": "Annuity.com subscription CRM/business tool; subscribers receive free leads via the Financialize relationship."
+    },
+    {
+     "name": "Financialize (caption: 'financialized')",
+     "type": "company/partner",
+     "description": "Partner that vets leads; LeadPro subscribers now get free leads out of it."
+    },
+    {
+     "name": "agents.annuity.com",
+     "type": "platform (Annuity.com)",
+     "description": "Agent portal where agents update a profile that feeds their Annuity.com agent website and local/Google/AI search visibility; includes AI-assist for writing profile copy."
+    },
+    {
+     "name": "Screencast / Loom",
+     "type": "tools (third-party)",
+     "description": "Screen-recording tools John uses for personalized video responses."
+    },
+    {
+     "name": "annuity.org",
+     "type": "competitor/authority site",
+     "description": "Another authoritative annuity domain; leads from it sometimes mistakenly attributed to Annuity.com."
+    },
+    {
+     "name": "Global Atlantic, Prudential, Corebridge ([unclear: caption 'Corbridge', 'owns AIG']), Nighthead/N-Head [unclear], SBLI, Rebel One, Wichita [unclear], Mountain Life [unclear]",
+     "type": "carriers named in example",
+     "description": "Carriers John mentions while comparing MYGAs/income riders; Global Atlantic described as newer, Corebridge/Prudential ~100 yrs old."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "Cap the Company (Annuity.com program)",
+     "definition": "Producing more than $5 million and more than $50,000 in overrides ('company dollars') in an anniversary year; after that point the agent receives all the overrides on further business. Resets each anniversary year.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Street commission",
+     "definition": "The carrier-published commission paid to the agent; e.g., 7% on a $100,000 indexed annuity income rider = $7,000.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Override (company dollar)",
+     "definition": "Extra commission carriers pay the IMO on top of street commission; John estimates 1.5%–2.5%, averaging ~2%, lower for MYGAs and SPIAs; Annuity.com passes it back to capped agents.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "MYGA",
+     "definition": "John: 'basically buying a CD' – fixed-rate, principal-protected; provides income only for a term then renews at the then-current rate; not lifetime income.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Income rider / benefit base",
+     "definition": "A rider (with a rider charge) that grows a benefit base (e.g., 10% simple roll-up) on which lifetime withdrawal % is applied; account value and death benefit may be depleted but income is guaranteed.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Transfer of trust",
+     "definition": "Bruce: the core challenge in sales is how fast trust transfers to you; brand association, in-person meetings, source of lead/referral, and education all transfer trust.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Advisory (RIA) MYGA product",
+     "definition": "Rates sometimes seen online that agents can't find are advisory products sold by registered advisors who charge an annual fee that erodes total yield, often below commission-based products.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "term": "Annuity company ratings (B++ vs A-/A/A+)",
+     "definition": "John: B++ companies have fewer reserves than A- or A; he prefers B++ or higher, and splits large deposits (e.g., $1M) or favors A+ for big premiums; state guaranty coverage matters to some clients.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "COMPANY: Producing roughly $1 million a year earns 'a piece of ownership' (stock) at Annuity.com (Bruce: 'Just a million').",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "COMPANY: Cap the Company = >$5M production AND >$50K overrides in an anniversary year; all overrides afterward go to the agent.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "COMPANY/ANECDOTE: John took 6 months to cap in year 1, 3 months in year 2, and ~30 days/5–5.5 weeks in year 3.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "COMPANY: Typical overrides cited: 1.5%, 2%, or 2.5% by carrier, ~2% average; less for MYGAs and SPIAs.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "EXAMPLE: $100,000 sold at 7% = $7,000 street commission; expect ~$2,000–$2,500 override if capped.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "EXAMPLE: $1M/month production ≈ $70K commission + ~$20K overrides, which John would reinvest in marketing (seminars, mailers).",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "ANECDOTE: John lost a $1M rollover client because she couldn't find him online – ~$70K commission lost.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "John's book cost about $25,000 to produce; he says brand matters more than the book; uses book as a post-sale gift.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "COMPANY: LeadPro subscribers now get free leads out of the Financialize relationship; Annuity.com has invested in organic search so unpaid inbound leads arrive.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "EXAMPLE (Annuity Genius, caption-noisy): $800K, 5-year MYGA top rate around 6.15–6.3%, grows to ~$1.078M after 5 years; a top rated carrier allowed 10% free withdrawal after year 1.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "EXAMPLE: Global Atlantic income rider on $800K: benefit base grows to ~$1.2M with 10% simple roll-up; at ~8.02% withdrawal ≈ $96K/year for life vs ~$86K/yr from annuitizing the $1.078M MYGA at 8%. [Numbers partly unclear in caption.]",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "Commissions John has seen: MYGAs as low as ~0.5%–1.5%; income riders ~7% + ~2.5% override.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "John says he does not follow up with prospects anymore; a very small number (1–2) of sales close without a meeting; most still meet by Zoom after multiple video replies.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "claim": "An applicant John 'pushed away' ('maybe you shouldn't buy an annuity') ended up submitting two applications.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Brand search-ability builds trust",
+     "detail": "Clients Google your name + 'annuities'; showing up as Annuity.com agent plus saying 'I'm an owner' creates instant credibility for large rollovers. Fill out your agents.annuity.com profile (intro YouTube video, Google local info, AI-assisted copy) so you appear in Google/AI search.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Educate to earn trust",
+     "detail": "'Biggest way to gain trust is educating'; teaching makes the client's brain associate you with expertise and prompts follow-up questions.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Personalized screen-share video replies",
+     "detail": "Use Screencast/Loom with your face in the corner; show the client's requested product plus alternatives (top 5-year MYGAs, withdrawal features, ratings, income rider comparison). 2–5 minute videos; answer an emailed question list item by item; keep emails as a compliance trail; spouse can watch too.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Be rate-/carrier-agnostic and transparent",
+     "detail": "Show multiple carriers and tradeoffs, disclose that you could earn more selling other products; never push the high-commission product. Bruce: John never looks at commission; he sells 0.5% MYGAs and 7%+ riders based on need.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Need-matching rather than selling (Bruce's debrief)",
+     "detail": "Ask questions first to discover the need; product presentation just confirms the need ('confirmation bias, not sales bias').",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Customer-flow discovery for MYGA inquiries",
+     "detail": "Ask: Are you looking for MYGA (CD-like)? Fixed rate? Do you want lifetime income? MYGA gives term income then renews; if lifetime income is the sole goal, show the income rider instead; MYGA only if flexibility is wanted.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Ratings conversation",
+     "detail": "Ask for rating preference; explain B++ vs A-/A+ tradeoff (slightly lower rating often = more income); state personal preference and cut up large premiums across carriers.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "No-chase follow-up / urgency without urgency",
+     "detail": "Send everything up front; close the email with 'let me know if you have questions… if you decide to lock in the rate by submitting an application, I'd love to help'; then never call again. Act confident, not needy; pushing away can increase pull.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "teaching": "Don't hide the carrier/advisor tradeoff",
+     "detail": "Don't throw other advisors under the bus; say limited carriers are easier to run a practice with but not usually in client's best interest.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "it's all about the transfer of trust. And the faster you can get the transfer of trust to you the more effective that you can be.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "the biggest way that you can gain people's trust is by educating",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "I try to provide so much value up front and then I try to act like I don't care.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "pushing people away makes them want to work with you more.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "You're simply saying, okay, I heard you say this. Let me show you... It becomes a confirmation bias that you create with the client instead of a sales bias.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "people appreciate the transparency.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "they're going to do their research online.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    },
+    {
+     "quote": "You don't need to sit there and tell them what they need to do. Just explore it with them, educate them.",
+     "source_video": "0bjc2xeBdGw_The Closing Room November 10 2026.en.txt"
+    }
+   ],
+   "topics": [
+    "trust transfer",
+    "Cap the Company",
+    "agent ownership/stock",
+    "personal branding & local/AI SEO",
+    "MYGA vs income rider",
+    "annuity ratings",
+    "video selling",
+    "no-chase follow-up",
+    "Annuity Genius",
+    "reinvesting overrides into marketing",
+    "agent compensation"
+   ]
+  },
+  {
+   "video_file": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt",
+   "title_guess": "The Agent Advantage – September 2025 (monthly agent recognition + CEO strategy update)",
+   "summary": "Monthly third-Tuesday Annuity.com community call that recognizes August 2025 top achievers, shareholder-club/pinnacle producers, and agency builders, then turns to CEO Brett Blake's company update. Brett reports growth from ~300 agents in June to 491 at end of August, outlines a strategic shift toward recruiting brand-new, life-only and Medicare agents supported by team selling and AI tools, and gives share valuation of $6–$9 vs $1 a year earlier. He previews the 'Race to a Million' stock incentive for agency builders (launch target Oct 1), the Senior Annuity Agent program with a commission-split lead test, and a proof-of-concept multi-agent annuity AI. He closes with a vision of $50–100 billion in annual annuity production at ~5% of a $2.3 trillion market.",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person (CEO)",
+     "description": "Annuity.com CEO; presents strategy, valuation, Race to a Million, AI roadmap."
+    },
+    {
+     "name": "Milan Jensen (caption 'Milan')",
+     "type": "person (Annuity.com staff, host)",
+     "description": "Hosts recognition portion of the call."
+    },
+    {
+     "name": "Kevin Jensen (caption 'Kevin')",
+     "type": "person (Annuity.com staff)",
+     "description": "Co-presents achievements and clubs/awards; corrects stock-award numbers."
+    },
+    {
+     "name": "Steve Carillo/'Krill' [unclear spelling]",
+     "type": "person (Managing Director of Sales)",
+     "description": "Reports Hawaii opened, 12 sponsored new agents, ~30 more pending; to manage senior-agent lead test."
+    },
+    {
+     "name": "John Stevenson",
+     "type": "person (top producer)",
+     "description": "Top August producer: >$4M, 22 policies; ~$16.5M YTD [unclear: caption 'almost 165 million']; two-time Pinnacle Producer."
+    },
+    {
+     "name": "Chris Harding",
+     "type": "person (agency builder)",
+     "description": "Added 56 team members in August; #1 agency builder."
+    },
+    {
+     "name": "Top-10 August producers",
+     "type": "people",
+     "description": "John Stevenson >$4M; Tim Davis ~$1.19M; Roy [Snar] $878K; Donna $775K; Steve $518K; Steve Carillo $517K; Angelique ~$400K; Angelique/Al ~$368K; Ali [El…] $350K; Olivier (SF) $260K. [Names partially garbled.]"
+    },
+    {
+     "name": "Shareholders Club members",
+     "type": "people",
+     "description": "Ali El[…], Barry Goldwater, Dustin Settle, Garrett Burrow, Steve Kirby, Kenneth Horton (≥$1M personal production)."
+    },
+    {
+     "name": "Pinnacle Producer Group",
+     "type": "recognition tier",
+     "description": "John Stevenson (2x), Steve Dwad/Dibad, Al Martinez, Donna McElroy, Roy Snar, Tim Davis."
+    },
+    {
+     "name": "Equity Alliance",
+     "type": "recognition tier",
+     "description": "$3M personal production tier; Pete Fournier named."
+    },
+    {
+     "name": "Agent IQ",
+     "type": "product concept (Annuity.com)",
+     "description": "Umbrella term for AI software to raise productivity of new and existing agents."
+    },
+    {
+     "name": "LeadPro",
+     "type": "product (Annuity.com)",
+     "description": "CRM/business tool; senior annuity agents must subscribe and use it to track leads."
+    },
+    {
+     "name": "Financialize",
+     "type": "partner",
+     "description": "Call center that vets leads for a large lead provider."
+    },
+    {
+     "name": "Senior Annuity Agent program",
+     "type": "program",
+     "description": "Co-team sellers who work with new agents; require proven annuity experience, case-review screening, $100K new business with Annuity.com, LeadPro subscription."
+    },
+    {
+     "name": "Performance Pathways",
+     "type": "program",
+     "description": "Qualified Lead pathway, Team Selling pathway (new agents), Seminar pathway (senior agents); digital booklet in app.annuity.com resources."
+    },
+    {
+     "name": "Race to a Million",
+     "type": "program (planned)",
+     "description": "Stock incentive for agency builders; top earner stock projected worth ~$2M; extra $1–3M pool; targeted launch Oct 1 (attorney review pending)."
+    },
+    {
+     "name": "WIN / Two Wins a Day",
+     "type": "program (Annuity.com)",
+     "description": "'What Is Your Number' conversation starter for new agents, usually by text; goal two per day."
+    },
+    {
+     "name": "Roy's Thursday event",
+     "type": "event",
+     "description": "Weekly Thursday Q&A with successful agent Roy [Snar]."
+    },
+    {
+     "name": "Agent Events email / app.annuity.com",
+     "type": "communication channels",
+     "description": "Sunday email from agent events list, SMS, and agent dashboard with calendar/contacts vs average-agent comparison."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "Shareholders Club",
+     "definition": "Tier for agents with $1M+ in personal production (in anniversary year); members earn stock awards.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Equity Alliance",
+     "definition": "Tier at $3M personal production with additional stock (speaker corrected to +4,000 for a total of 5,000 [unclear]).",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Pinnacle Producer Group",
+     "definition": "Tier for $5M personal production in anniversary year; carries $15,000 shares per achievement.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Agency builder",
+     "definition": "Agents building a virtual agency to earn residual income; no license required to be an agency builder.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Team selling",
+     "definition": "New agent starts conversations and sets appointments; matched with experienced senior annuity agent who handles the rest.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Five-step annuity sale process",
+     "definition": "1 Secure appointment, 2 fact-finder, 3 case design, 4 present plan with illustrations, 5 close and manage money transfer.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "WIN program",
+     "definition": "'What is your number' – helps people discover the amount they need to retire; a non-threatening conversation opener via text.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "term": "Multi-agent AI / co-pilot",
+     "definition": "Planned AI that simplifies fact-finding, optimizes case design and eventually creates client presentations; uses actual carrier product data.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "COMPANY: Agents grew from ~300 (June) to 491 at end of August (≈496 at the call); 98 new agents in August; goal 'knocking on the door of 500'.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Company says many large IMOs have <400 agents; Annuity.com is 17 months old.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: 19 agents are owners; '699 unlicensed agents' and 15 in pre-licensing courses; 'over a million dollars in production over the last 12 months' [unclear caption – likely mis-scaled].",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Austin seminar training events sold out for the rest of the year.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Share valuation range $6–$9/share per NY investment-bank work vs $1/share a year ago; a capping agent's 15,000 shares = $90K–$135K; two-tranche agents hold $180K–$270K.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Hawaii market opened last week; 12 new agents sponsored 'yesterday' with ~30 more pending.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Chris Harding added 56 team members in August; top agency builders: Chris, Rodell Razer, Brian Beavers, Steve Kirby.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: August records — John Stevenson 22 policies; Roy Snar 11; Garrett Burrow 10.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Lead provider that sold leads at $700–$1,000 each will now offer them on a commission split (not taken by Annuity.com) to qualified senior annuity agents; test rolling out 'next week' to a few agents.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "INDUSTRY: 10–11K retirees per day; $80T retirement savings gap; 54% of consumers say they'd buy an annuity when informed vs 12% who have = $2.3T annual opportunity; industry up 98% since 2020 from $219B to $434B.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "INDUSTRY: Experts predicted 2025 decline due to fewer, older annuity agents; Brett says 2025 is as strong as 2024.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "Brett: $90T+ in rollovers available; 5% of $2.3T market ≈ $50–100B annual production (company ambition).",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "Senior annuity agents must produce ≥$100K new business with Annuity.com and subscribe to LeadPro.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "claim": "Race to a Million: top earner stock projected ~$2M value; additional $1–3M total pool for others; planned launch Oct 1.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "New agents: only learn to set appointments",
+     "detail": "Don't worry about knowing SPIA/DIA/FIA; start retirement conversations with friends/family 40+ and your life/Medicare clients, and hand off to a senior annuity agent.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "teaching": "WIN / 'Two Wins a Day'",
+     "detail": "Text-based opener: help two people a day discover 'what's your number' to retire; senior adviser takes it from there.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "teaching": "Five-step sales process",
+     "detail": "Secure appointment → fact-finder → case design → present with illustrations → close and manage money transfer (funding from 401k/IRA).",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "teaching": "Medicare agent expansion",
+     "detail": "Ask Medicare clients about what Medicare doesn't pay for as an on-ramp to retirement conversations.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "teaching": "Using AI for case prep (agent comment)",
+     "detail": "Agent tip: tell ChatGPT to build plans such that another adviser can't undo them; LLMs good for state/tax rules but not suitability; Brett: current LLMs lack product data and can 'make things up'.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "Equity grows on the work of all of us",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "The first thing you need to learn is just how to set appointments",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "You don't have to know all of this now. Forget about steps 2 through 5 for now.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "most IMOs are competing for a shrinking pool of existing agents and we wanted to get out of that competition",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "Success is simple if you keep it simple and focus first on finding clients.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "I now believe that Annuity.com will be producing somewhere between 50 and hundred billion dollars in annuities every year.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "we started with no technology debt",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    },
+    {
+     "quote": "I believe that the agents who learn how to build an agency will be much better off long term than the agents who are only personal producing.",
+     "source_video": "16JuoMm8lGU_The Agent Advantage - September 2025.en.txt"
+    }
+   ],
+   "topics": [
+    "agent recognition",
+    "stock/ownership tiers",
+    "company growth metrics",
+    "share valuation",
+    "strategic shift to new agents",
+    "team selling & senior annuity agent program",
+    "performance pathways",
+    "WIN program",
+    "AI co-pilot / Agent IQ",
+    "Race to a Million",
+    "industry statistics",
+    "lead-split program",
+    "training roadmap"
+   ]
+  },
+  {
+   "video_file": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt",
+   "title_guess": "The Closing Room with Tom Hegna – Handling Objections (fall 2025, ~Oct/Nov)",
+   "summary": "Tom Hegna, long-time annuity educator, joins the Closing Room (despite a cold and travel fatigue) to teach objection handling: thank, empathize, ask 'may I ask why?', show value, use disinterested third-party research. He rebuts common objections (fees, commissions, liquidity, taxes, FDIC, market upside, inflation, 100% stocks) with analogies and data. He explains why fall is 'CD season', promotes MYGA as CD competitor with 'triple interest', and teaches the Social Security tax torpedo conversation as a no-selling lead generator. Brett Blake and Bruce Jensen add market-size data, the Wade Pfau RISA segmentation, and Wealth Logics software for sequence-of-returns and LTC illustrations.",
+   "entities": [
+    {
+     "name": "Tom Hegna",
+     "type": "person (educator/speaker/author)",
+     "description": "Annuity educator, PBS special host, author of 'Paychecks and Playchecks'; ex New York Life; owns 13 annuities and 4 pensions; trains Annuity.com agents (Tom Hegna On Demand)."
+    },
+    {
+     "name": "Brett Blake",
+     "type": "person (CEO)",
+     "description": "Hosts; reinforces needs-based selling; cites Boston College CRR 54% stat."
+    },
+    {
+     "name": "Bruce Jensen / Amy",
+     "type": "staff",
+     "description": "Chat/logistics support (Amy handles sharing, promo code; 'Bruce' posts replay link — attribution unclear)."
+    },
+    {
+     "name": "Ken Fisher",
+     "type": "person (fee-based money manager)",
+     "description": "Used as example of a critic of annuities; Hegna suggests clients Google 'Ken Fisher scandals'."
+    },
+    {
+     "name": "Dr. David Babbel; Robert C. Merton; William Sharpe; Wade Pfau",
+     "type": "people (academics)",
+     "description": "Named as disinterested third-party sources who support annuities (Merton/Sharpe Nobel laureates)."
+    },
+    {
+     "name": "Wealth Logics (caption 'Wealth Logic')",
+     "type": "software company",
+     "description": "Retirement illustration software showing sequence-of-returns risk, LTC events, live PDFs; Hegna holds a promo code ('Hegna 2027' [unclear])."
+    },
+    {
+     "name": "RISA (Wade Pfau's Retirement Income Style Awareness) [caption 'RIS A']",
+     "type": "tool",
+     "description": "Questionnaire determining a client's income style preference (market-only vs mixed vs annuity)."
+    },
+    {
+     "name": "Center for Retirement Research at Boston College",
+     "type": "research org",
+     "description": "Source of 54% stat on retirees wanting guaranteed income product."
+    },
+    {
+     "name": "Rebel One [unclear]",
+     "type": "carrier/product",
+     "description": "Mentioned as a product a 20-year-old can buy with annual taxation, higher rate than CD; caption unclear."
+    },
+    {
+     "name": "Agent HQ",
+     "type": "platform (Annuity.com)",
+     "description": "Upcoming replay library 'next month'."
+    },
+    {
+     "name": "Russell, Matt Harris, Kathy, Mark, Dutch, Tim, Charles, Keith",
+     "type": "agents (chat/question askers)",
+     "description": "Agents who posed objections/questions."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "MYGA",
+     "definition": "Multi-year guaranteed annuity; like a CD but not FDIC insured; higher rates, tax deferred; typically 10% annual free withdrawal; no fees (spread product).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "SPIA",
+     "definition": "Single premium immediate annuity – not a fee product.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "DIA",
+     "definition": "Deferred income annuity – not a fee product.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Spread product",
+     "definition": "Insurer earns the spread between what it earns and what it credits (like a bank CD lending at 9% and paying 4%); no explicit fees.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Fee products",
+     "definition": "Only variable annuities and optional riders carry fees per Hegna.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Triple interest (MYGA)",
+     "definition": "Principal earns interest, interest earns interest, and the money you'd have paid in taxes earns interest.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Social Security tax torpedo",
+     "definition": "Provisional income (AGI + tax-free interest + half of SS benefits) above thresholds causes up to 85% of SS to be taxed; $1 over can trigger; thresholds $34K single/$44K married, unindexed since 1994.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Sequence of returns risk",
+     "definition": "Poor market returns in the first years of withdrawals can exhaust a portfolio even if average returns are high.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Accumulation vs decumulation",
+     "definition": "Staying 100% in stocks may work in accumulation but not once taking income (distribution).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "RILA",
+     "definition": "Contrasted with FIA as the right comparison for market-participation clients (named alongside variable annuity).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "term": "Paychecks and Playchecks",
+     "definition": "Hegna's framing: guaranteed paychecks (needs) plus guaranteed playchecks (wants).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "EDUCATIONAL: Hegna: ~90% of objections are false objections.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Only variable annuities and optional riders have fees; MYGA, SPIA, DIA, base FIA are not fee products.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: SS taxation thresholds not indexed since 1994: single >$34,000 or married >$44,000 provisional income can lead to 85% taxation; includes tax-free muni interest and half of SS.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Average mutual fund turnover ~100%, so little qualifies for capital gains (Hegna).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: 1% advisory fee for 25 years ≈ 25% of assets in fees; commission is paid by insurer, not deducted from client's deposit.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Hegna: 35% of the population won't buy an annuity; 35–40% want market + annuity; ~25% want all annuity (RISA segmentation).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Boston College CRR: 54% of retirees with ≥$100K assets said they'd want an unnamed guaranteed-income product; <12% of retirees own guaranteed income.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Brett: guaranteed income opportunity: ~$465B market vs $2.3T demand; ~$20T accumulation market; LTC affects ~70% of retirees.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Fall is 'CD season' tied to crashes (Oct 1987, 2000, 2008, COVID); CDs paid 8–10% in 1987.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: A person can average 10% and withdraw 5% yearly and still go broke due to sequence risk (Hegna).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Hegna owns 13 annuities, 4 pensions (US Army, MetLife, 2 New York Life) and has not yet taken Social Security.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "EDUCATIONAL: Wealth Logics webinar showed annuity-with-market beats market-only in distribution phase; Hegna says AI would support annuities in portfolios.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "claim": "COMPANY: Closing Room runs Tuesdays 11:00 a.m. Pacific; Hegna leads two weeks a month; replays on YouTube and an Agent HQ library coming.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Objection handling steps",
+     "detail": "Thank them; empathize/acknowledge ('before I got in the business I said the same'); ask 'May I ask why?' to flush false objections; show value to them and family; use disinterested third-party references.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Know your product cold",
+     "detail": "Know what's guaranteed vs not, caps, participation rates, whether guaranteed.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Pre-empt objections in the presentation",
+     "detail": "Put Ken Fisher/fees objections in slides; or ignore ('I understand') and continue; or defer ('coming in three slides').",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Stop selling; be a problem finder and solver",
+     "detail": "Advice to his daughter Sammy: 'Stop selling.'",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Fees objection: CD/bank analogy",
+     "detail": "Bank pays 4%, lends at 9%, keeps spread; annuities mostly spread products.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Commission objection",
+     "detail": "Ask 'How much of the commission do you pay?' – zero; contrast with advisory fees that always come from the account. Brett: disclose compensation upfront (John Stevenson shows commissions on multiple products).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "FDIC objection",
+     "detail": "Ask if FDIC matters; FDIC can't cover major banks; buy CDs from smallest weakest banks or choose strong insurer (humorous).",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Liquidity objection",
+     "detail": "Liquidity is a lifetime event; annuity increases lifetime liquidity; MYGAs usually allow 10% penalty-free; many CDs allow none.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "'Market returns 15% vs 8%' objection",
+     "detail": "Apples to oranges; for market exposure use VA or RILA; emphasize downside security, not rate of return.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "100% in stocks",
+     "detail": "Show sequence of returns risk with software (Wealth Logics); 'never take money out of an account that's going down'; plant a seed with 100%-stock holders and invite a later call.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Risk tolerance questionnaires",
+     "detail": "Not very helpful; ask 'How would you feel if $1M became $600K next week?'",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Inflation objection",
+     "detail": "Ladder multiple annuities starting at different times, add COLA, keep some money in market.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "CD season outreach / triple interest",
+     "detail": "Talk to CD holders in fall; show MYGA, then blend MYGA with FIA so they never get zero.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Social Security tax torpedo as lead gen",
+     "detail": "'Easiest conversation – you're not selling anything'; move CDs/tax-free bonds into annuities to get clients from 85% taxed to 0%; leads to word-of-mouth referrals.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Don't prejudge",
+     "detail": "Manufactured-housing neighborhoods often have clients with $400–500K in CDs who want guarantees; high-end homes may be indebted.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Beat advisors with math/AI side-by-side",
+     "detail": "Run advisor's recommendation vs yours through software/AI; show annuity-in-portfolio wins in distribution.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "teaching": "Not every call ends in a sale",
+     "detail": "Brett's police-officer story: told retiree 'you don't need me' – role is worry-free understanding.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "90% of the objections you get are false objections.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "May I ask why? ... that will flush out the false objections",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "Stop selling. Your job is not to sell, it's to find problems and solve problems.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "most annuities have no fees",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "Liquidity is not a one-time event, it's a lifetime event.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "With a MYGA, your principal earns interest, your interest earns interest, and the money you would have paid in taxes earns interest.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "Never take money out of a market out of a product that's going down.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "I don't want just guaranteed paychecks. I want some guaranteed playchecks.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "That objection is fine for accumulation. It is not fine for distribution.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    },
+    {
+     "quote": "Decumulation is very different than accumulation.",
+     "source_video": "2TkZcDxcB5Y_The Closing Room with Tom Hegna.en.txt"
+    }
+   ],
+   "topics": [
+    "objection handling",
+    "annuity fees myth",
+    "commission transparency",
+    "MYGA vs CD",
+    "CD season",
+    "Social Security tax torpedo / IRMAA",
+    "sequence of returns risk",
+    "100% stock clients",
+    "inflation & laddering",
+    "long-term care",
+    "RISA client segmentation",
+    "Boston College research",
+    "AI & software illustrations",
+    "Tom Hegna On Demand"
+   ]
+  },
+  {
+   "video_file": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt",
+   "title_guess": "Medicare Agents Selling Annuities – the RAMP Program (Brett Blake)",
+   "summary": "Brett Blake introduces RAMP (Reducing Annual Medicare Penalties), an Annuity.com program that helps Medicare agents add annuities by calling current clients with a 3-minute IRMAA checker and a Social Security tax torpedo check. Online tools qualify clients and the agent then hands off to a specialist via team selling, so agents only need to set the appointment. Compensation is 100% street commission with an agreed split (up to 20% to the senior advisor), plus stock options, agency builder program and production bonuses. Licensing needs are a life license plus 4–8 hours one-time suitability training, with LeadPro as an optional paid tool and free joining.",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person (CEO)",
+     "description": "Presents the program."
+    },
+    {
+     "name": "RAMP",
+     "type": "program (Annuity.com)",
+     "description": "Reducing Annual Medicare Penalties; Medicare-agent annuity onboarding program."
+    },
+    {
+     "name": "IRMAA checker",
+     "type": "tool (Annuity.com)",
+     "description": "Three-minute online questionnaire estimating whether client is paying extra Medicare Part B/D premiums due to income."
+    },
+    {
+     "name": "Social Security Tax Torpedo Check",
+     "type": "tool (Annuity.com)",
+     "description": "Short questionnaire identifying tax on Social Security triggered by IRA/401k withdrawals."
+    },
+    {
+     "name": "LeadPro",
+     "type": "product (Annuity.com)",
+     "description": "Subscription toolkit: personalized website with IRMAA/torpedo tools, marketing automations, bi-weekly newsletters, birthday greetings, appointment scheduling/reminders, Tom Hegna on demand; caption says '$1.99' monthly [unclear; other video context suggests ~$199]."
+    },
+    {
+     "name": "Team sellers / senior annuity advisor",
+     "type": "role",
+     "description": "Expert partner who does case design, presentation, product selection and funding."
+    },
+    {
+     "name": "Tom Hegna",
+     "type": "person",
+     "description": "On-demand training included for agents."
+    },
+    {
+     "name": "Klay (Hawaii) and Russell Barber (Overland Park, Kansas)",
+     "type": "agents (testimonials)",
+     "description": "Former Medicare agents who transitioned; Russell is an agency owner."
+    },
+    {
+     "name": "CMS",
+     "type": "regulator",
+     "description": "Governs Medicare appointment rules limiting topics in Medicare appointments."
+    },
+    {
+     "name": "Medicare agents ('Sarah' in video)",
+     "type": "target audience",
+     "description": "Fictional composite: 15 years, 500 seniors, hurt by reimbursement cuts."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "RAMP",
+     "definition": "Reducing Annual Medicare Penalties – program helping Medicare agents add annuities.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "Social Security tax torpedo",
+     "definition": "Hidden tax trap where IRA/401k withdrawals trigger additional taxes on Social Security (more benefit taxed as income rises).",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "IRMAA (caption 'Irma/Herman')",
+     "definition": "Income-related Medicare premium surcharge for Part B/D tied to income; checker estimates extra paid.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "RMD",
+     "definition": "Required minimum distribution; tool asks if client is taking and how much.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "Street commission",
+     "definition": "Published carrier commission; Annuity.com pays 100% with no IMO fee.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "Team selling",
+     "definition": "Agent sets appointment; specialist handles design, presentation, product, funding; commission split adjustable.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "term": "Agency builder program",
+     "definition": "Compensation on recruits and their recruits up to seven degrees, even if the agent isn't producing.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "COMPANY: Over 5 million Americans struggle with Medicare costs/IRMAA; Brett says people are being charged up to $6,000+ [unclear: '70% of population' caption garbled].",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Commissions range from ~1% on a MYGA ('a MA') to as high as 8% on an FIA; on avg $150K policy = ~$3K–$10K commission.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Example: $150K policy at 5% = $7,500; agent could earn $1,500 for setting appointment (80/20 split), growing to full $7,500.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Annuity.com pays 100% street commission; senior-advisor split decided case by case ('all but 20%' for case design help).",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Free to join; no buy-in, no IMO fee; LeadPro optional; includes Tom Hegna On Demand.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Licensing: life license required; ~4–8 hours annuity suitability once for all carriers; 50% off training company fee; carrier appointments take minutes.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Perks: annual stock option program, agency builder (7 degrees), annual production bonuses up to 100% of overrides.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "COMPANY: Brett just wrote two checks of $4,500+ to Medicare-only agents who had never sold annuities.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "EXAMPLE: Tax torpedo check sample — $24,000 SS + $18,000 other + $20,000 RMD, MFJ; tool outputs an $11,000 drag and extra '$6,800 a month' [unclear; likely per year]; share of SS taxed from 0 to 46%.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "EXAMPLE IRMAA: Part D over $500/month, $200–500K IRA, RMD $10–30K → tool estimates paying $?,000–$6,000 more [caption 'a,000'].",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "claim": "Claim: Medicare agents face commission cuts, falling renewals; CMS rules bar discussing non-Medicare topics in a Medicare appointment but allow separate outreach.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "3-minute IRMAA check phone script",
+     "detail": "'Many of my clients are paying more for Medicare Part B and Part D than they need to. Can we go through a few simple questions to see if you're paying more than you should? It will take three minutes.' Do not add to a Medicare enrollment appointment; use phone, email or social.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "teaching": "Free specialist hand-off",
+     "detail": "'I've arranged for a specialist to meet with my clients… free review… Can we set up an appointment?'",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "teaching": "Don't pretend to be expert",
+     "detail": "'I'm not the specialist'; save questions for the specialist; play on not being an expert for credibility. Job = run checker, schedule, ensure show-up.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "teaching": "Tax torpedo transition",
+     "detail": "For non-IRMAA clients: 'Let me see if you're paying more on Social Security than you need to.'",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "teaching": "Compliance-aware bridging",
+     "detail": "Use separate outreach (call after the fact) because CMS limits topics inside Medicare appointments.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "teaching": "Positioning",
+     "detail": "'Plan B' that sits alongside Medicare practice; adds revenue and loyalty by saving clients money.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "who is protecting hers?",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "quote": "We're not asking you to be the specialist. We're asking you to arrange for them to meet with a specialist.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "quote": "you actually play on the fact that you're not an expert in that space and it helps you establish credibility",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "quote": "This just adds a plan B to your Medicare business today.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "quote": "we look at agent compensation as a full compensation package, not just as a commission.",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    },
+    {
+     "quote": "Annuities are the perfect complement",
+     "source_video": "7snUUPD2nS4_Medicare Agents Selling Annuities.en.txt"
+    }
+   ],
+   "topics": [
+    "Medicare agents cross-selling annuities",
+    "IRMAA",
+    "Social Security tax torpedo",
+    "team selling",
+    "licensing requirements",
+    "agent compensation & stock",
+    "agency builder",
+    "LeadPro",
+    "CMS appointment rules",
+    "RAMP"
+   ]
+  },
+  {
+   "video_file": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt",
+   "title_guess": "Opportunity Call 11-5-2025 – Brett Blake and Bill Broach: Annuity.com Vision, Compensation Plan and Tools",
+   "summary": "Recruiting/Opportunity call hosted by Milan Jensen with founder-of-the-domain Bill Broach and CEO Brett Blake presenting why agents should join Annuity.com. Brett tells the origin story (acquisition of the annuity.com domain, 'founders tour' with Tim Davis and John Stevenson), industry growth, and models Annuity.com on Keller Williams/eXp Realty revenue-share. He details the compensation plan: 100% street commission, cap the company at $5M, agency builder to 7 degrees, stock up to $15,000/year, 2x5 plan. Tools covered are LeadPro, done-for-you newsletters, branded website, directory listing, Tom Hegna On Demand free from Jan 1, and an AI agent assist GPT; John Stevenson gives a testimonial.",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person (CEO)",
+     "description": "CEO since Jan 2024; Harvard MBA; author of four business books; led acquisition of the new annuity.com; lives near Phoenix; previously in a sales industry with $38–40B US sales."
+    },
+    {
+     "name": "Bill Broach (caption 'Brooch')",
+     "type": "person (original domain owner, agent)",
+     "description": "Original co-owner of annuity.com with David Townsen; created Safe Money Radio and database marketing system; first to produce $100M annuity sales; launched own Annuity.com agency, first agent."
+    },
+    {
+     "name": "Milan Jensen",
+     "type": "person (host)",
+     "description": "Hosts the call."
+    },
+    {
+     "name": "Kevin Jensen",
+     "type": "person",
+     "description": "Longtime friend of Brett; connected Bill and Brett (met at a food bank in Northern California)."
+    },
+    {
+     "name": "Bruce Jensen",
+     "type": "person (COO)",
+     "description": "Started selling annuities with Fidelity; leads compensation deep dive at top of hour."
+    },
+    {
+     "name": "Mark Balstead",
+     "type": "person (tech executive)",
+     "description": "Ran technology for $3B+ enterprises; helps recruit tech."
+    },
+    {
+     "name": "Alan Culver",
+     "type": "person (CTO)",
+     "description": "From Google AI/data science; banking and secure government deployments."
+    },
+    {
+     "name": "David Townsen",
+     "type": "person (original co-owner)",
+     "description": "Bill's former partner who was ill; sold domain."
+    },
+    {
+     "name": "Tim Davis, John Stevenson",
+     "type": "people (early investors/top producers)",
+     "description": "First to write investor checks."
+    },
+    {
+     "name": "Founding agents",
+     "type": "people",
+     "description": "David Dustin, Al Martinez, Roy Snar, Steve Dibwad (spellings partly unclear)."
+    },
+    {
+     "name": "Roy Snar",
+     "type": "person (top producer)",
+     "description": "Hosts free 'Annuity Producers' webinar Thursdays 11am Central."
+    },
+    {
+     "name": "ECA Marketing",
+     "type": "company",
+     "description": "Back-office IMO support partner for product selection and marketing."
+    },
+    {
+     "name": "Keller Williams / eXp Realty",
+     "type": "comparables",
+     "description": "Real-estate models Brett copies: profit share (KW) and revenue share + stock + capped earnings (eXp)."
+    },
+    {
+     "name": "BlackRock",
+     "type": "company",
+     "description": "Quoted as endorsing annuities as retirement products aligning with the 'don't lose my retirement money' preference."
+    },
+    {
+     "name": "Carriers named",
+     "type": "companies",
+     "description": "MassMutual, New York Life, Mutual of Omaha, Allianz, EquiTrust, [unclear 'the Credential' – possibly Corebridge/Principal]."
+    },
+    {
+     "name": "LeadPro",
+     "type": "product",
+     "description": "CRM/business center: $299 implementation + monthly fee (caption: '$1.99'; likely $199/month given '$200 a month' chat question) [unclear]."
+    },
+    {
+     "name": "Tom Hegna On Demand",
+     "type": "product",
+     "description": "Coaching tool, $97/month value; free to LeadPro subscribers beginning Jan 1."
+    },
+    {
+     "name": "Annuity.com Agent Advisor (Agent Assist)",
+     "type": "product (AI)",
+     "description": "Free GPT in OpenAI's GPT library for case design; don't enter client full names; proprietary secure version in 2026."
+    },
+    {
+     "name": "Performance pathways",
+     "type": "programs",
+     "description": "Qualified lead, seminar, team selling pathways with online communities."
+    },
+    {
+     "name": "Find an Agent directory",
+     "type": "platform feature",
+     "description": "Annuity.com directory listing for digital-tool subscribers; still being built."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "Street commission",
+     "definition": "The published commission rate carriers intend to be paid to agents; Annuity.com pays 100%.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "Compensation plan vs commission plan",
+     "definition": "Brett: commission plan pays for today's production without investing in agent future; compensation plan includes bonuses, stock, and long-term residuals.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "Cap the company",
+     "definition": "Sell $5M in a year → keep 100% of the company dollar (override) on every sale for rest of year.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "Agency builder program",
+     "definition": "Earn from agents you refer up to 7 degrees deep; share of company dollar; Annuity.com shares 50% of what it earns in this program.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "2x5 plan",
+     "definition": "Plan to build a residual asset equal to a million-dollar annuity income stream; as little as 2 years, plan is 5 years (details in Bruce's training).",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "CRM",
+     "definition": "Customer relationship management; centralizes prospects/clients and automates greetings, reviews.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "T65 leads",
+     "definition": "Turning-65 Medicare leads; Brett says 'free' leads are often paid for by splitting street commission.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "term": "Done-for-you newsletter",
+     "definition": "Two monthly newsletters written and sent by Annuity.com to agent's database.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "COMPANY: 600 agents at ~18 months old; (earlier calls: 491 in Aug 2025).",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: 60+ carriers; 2,400+ annuity products; ECA Marketing provides back-office support.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: 100% street commission, no IMO fee; cap at $5M personal production; up to $15,000 stock per year on milestones; agency builder to 7 degrees; 50% of company earnings in program shared.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Annuity.com is free to enroll; LeadPro: $299 implementation + monthly fee (caption '$1.99/month' unclear); marketing tools '$790 value' [unclear]; Tom Hegna On Demand $97/month free for LeadPro subscribers from Jan 1.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Written agreement that agents won't be held captive (John Stevenson).",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "INDUSTRY: Annuity industry grew 98% from 2020–2024; Boston College thinks opportunity ~$1.9T; $32T wealth transfer; 10K retire daily; most retire without pension.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "Brett illustration: 10% total commission split 3% company/7% agent.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Brett projects $50–100B annual annuity distribution; eXp is #3 brokerage; Keller Williams sells 2x former competitors combined.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: Roy Snar's 'Annuity Producers' free webinar Thursdays 11am Central.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "COMPANY: AI agent assist available now on OpenAI GPT; proprietary version 2026.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "Testimonial: A $100,000 deal = $7,000 commission, 'more than covers' LeadPro cost.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "claim": "Brett's example: agent whose family lost income within months/18 months of retirement; says retirement experts lack retirement plans.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Brand as trust for money transfer",
+     "detail": "Online-met clients sign contracts but hesitate to transfer funds; selling under Annuity.com brand and site increases completed transfers.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "teaching": "Build predictable lead sources",
+     "detail": "Free T65 leads cost street commission; top leaders build their own lead methods via performance pathways.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "teaching": "Start part-time, free join",
+     "detail": "Don't quit day job; spend extra hour/day; earn then reinvest in leads/LeadPro.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "teaching": "Compensation plan framing for recruiting",
+     "detail": "Present as owners vs employees; income beyond personal production; Rockefeller 1% of 100 people's effort.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "teaching": "Use CRM automation",
+     "detail": "Birthday greetings, annual review scheduling, newsletters to stay top of mind.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "teaching": "AI use caution",
+     "detail": "Use agent assist for case design but never enter full client names.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "Agents don't have a compensation plan. They have a commission plan.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "Imagine as a retirement specialist, you help person after person secure their retirement and your retirement isn't secure.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "he would rather earn 1% of a 100 people's effort than 100% of his own efforts",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "Our skin in the game is we're going to earn your business.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "we don't think artificial intelligence will replace agents if those agents are empowered with their own artificial intelligence.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "If you always do what you always did, you will always get what you always got.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "Most agents retire with nothing to sell.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    },
+    {
+     "quote": "it's refreshing... to have that written... we won't hold you captive.",
+     "source_video": "9oNcPasPb8E_Opportunity Call 11-5-2025.en.txt"
+    }
+   ],
+   "topics": [
+    "Annuity.com origin story",
+    "industry growth",
+    "comp plan: street/cap/agency builder/stock",
+    "Keller Williams & eXp model",
+    "LeadPro and tools",
+    "Tom Hegna On Demand",
+    "AI agent assist",
+    "performance pathways",
+    "training/launch center",
+    "free-to-join",
+    "John Stevenson testimonial"
+   ]
+  }
+ ],
+ "synthesis": "BATCH 1 SYNTHESIS (5 videos). COMPANY FACTS (Annuity.com) vs EDUCATIONAL CONTENT are tagged in claims. \nCOMPANY POSITIONING: Annuity.com = agent-first IMO (≈17–18 months old in late 2025; led by CEO Brett Blake since Jan 2024; COO Bruce Jensen; CTO Alan Culver; back office ECA Marketing). Core promises: free to join; 100% street commission, no IMO fee; Cap the Company (>$5M production and >$50K overrides in an anniversary year => keep all overrides; John Stevenson capped in 6 mo, 3 mo, ~5 wks); stock ownership (≈$1M production earns a sliver; tiers: Shareholders Club $1M, Equity Alliance $3M, Pinnacle $5M = $15K shares); Agency Builder program (7 degrees, 50% of earnings shared; Race to a Million stock incentive planned Oct 1 2025); 'compensation plan not commission plan'; written no-captivity promise. Scale: 300 agents (Jun 2025) → 491 (Aug) → 600 (Nov 5); 60+ carriers, 2,400+ products; share valuation $6–9 vs $1 a year earlier (company-reported, not independently verified). Growth strategy: recruit brand-new, life-only and Medicare agents via team selling (new agent sets appointment; Senior Annuity Agent handles case design/presentation/funding), WIN ('what is your number', 'two wins a day') and RAMP/IRMAA + SS tax-torpedo checkers; performance pathways (qualified lead, seminar, team selling). Products/tools: LeadPro (CRM + website + newsletters + directory listing; $299 setup and a monthly fee—captions say '$1.99/mo' in two videos, almost certainly $199/mo [unclear]), Tom Hegna On Demand ($97/mo value, free to LeadPro subscribers from Jan 1 2026), Agent Assist AI GPT (don't enter client names; proprietary multi-agent AI 'Agent IQ' targeted 2026), Annuity.com Find-an-Agent directory, agents.annuity.com profile/AI-search visibility, Financialize-vetted free leads for LeadPro subscribers/senior agents. \nCROSS-VIDEO THEMES: (1) Trust transfer is the central sales variable—brand (annuity.com as 'industry URL'), ownership claim, online searchability, education, third-party research (Hegna), and personalized video (Stevenson). Brett (Nov 5) and John both report brand raises completion of rollovers/transfers; John lost a $1M rollover to being unfindable. (2) Needs-based, non-pushy selling: 'stop selling—find and solve problems' (Hegna), 'match the need, confirmation not sales bias' (Bruce), rate/carrier agnosticism and commission transparency (Stevenson), 'I'm not the specialist' (RAMP). (3) Entry hooks that avoid selling: WIN number, IRMAA 3-minute check, SS tax torpedo, CD-season MYGA talk. Tax torpedo appears in both Hegna and RAMP—Hegna's thresholds ($34K single/$44K married, unindexed since 1994) are the educational anchor. (4) Industry sizing repeated consistently: ~10–11K retirees/day, 98% growth 2020–2024 ($219B→$434B), 54% would buy vs ≤12% own, $2.3T opportunity (Boston College CRR), $32T–$90T transfers/rollovers; Hegna/Brett speak of ~$465B vs $2.3T demand. Treat figures as speaker-stated. (5) Compensation education: typical commissions 1% (MYGA) to ~8% (FIA); $100K at 7% = $7,000; override ~1.5–2.5%; 10% total split 3% company/7% agent (illustration).\nEDUCATIONAL CONTENT HIGHLIGHTS (Hegna): objection framework (thank, empathize, 'may I ask why?', value, third-party proof); most annuities are spread products with no fees (only VAs and riders); commission paid by insurer not client vs advisory fee from account; liquidity = lifetime event; 'triple interest' for MYGA; sequence-of-returns, never withdraw from a falling account; RISA segmentation 35/35–40/25; ladder annuities vs inflation; AI/software side-by-side beats advisors in decumulation. Stevenson: MYGA vs income-rider comparison (e.g. $800K → $1.078M MYGA vs ~$1.2M benefit base at ~8% ≈ $96K/yr) and ratings preference (B++ or higher; split large premiums).\nCAVEATS FOR DOWNSTREAM USE: Several figures are caption-garbled (YTD production '165 million', LeadPro price, '$6,800 a month' torpedo example, Equity Alliance award numbers, name spellings Broach/Brooch, Carillo/Krill, Snar, Dibwad). Hegna's 'most annuities have no fees' and SS thresholds are speaker claims—verify against carrier/IRS sources before publishing in SEO/GEO content (SS combined-income tiers actually include a 50% tier; Hegna cites only 85% thresholds). Compliance: avoid income-guarantee implications; RAMP script must be used outside Medicare enrollment appointments per CMS rules. Date oddity: file title says Nov 10 2026 for the Stevenson Closing Room, other files are Sep/Nov 2025; confirm date."
+}

@@ -1,0 +1,1397 @@
+{
+  "videos": [
+    {
+      "video_file": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt",
+      "title_guess": "The Closing Room – November 2026 (Tom Hegna: Holiday momentum, grandparent annuity/life strategies, ethics, asking questions)",
+      "summary": "Weekly 'Closing Room' agent training hosted by annuity.com CEO Brett Blake with guest Tom Hegna (ex-military, former New York Life annuity trainer, PBS/CNBC retirement educator, author of Paychecks and Playchecks and Don't Worry, Retire Happy). Hegna presents holiday-season ideas: December is the top month for life/annuity production; use family gatherings for family financial meetings; pitch grandparents a joint-life SPIA with a grandchild (birthday checks, 50% death benefit, potentially ~$2.6M of payouts on $100K) or a 10-pay whole life/IUL on a grandchild; a 'five lifetimes, one annuity' successor-owner SPIA structure; a list of holiday outreach ideas (widows/widowers, early-60s Social Security/Roth/QLAC/RMD/IRMAA conversations, term conversions, age-change/birthday deadlines, rated policies, centers of influence, client gifts, Valentine's lunch for widows). Q&A covers running family meetings (use AI to build agenda), joint annuities with ex-spouses, how to answer 'are you a fiduciary?', new-agent mistakes (talking too much, asking too few questions), starting late on retirement, AUM advisors and annuity conflicts, and handling 'call me in January'. Brett also tells of a Find-an-Agent MYGA lead on annuity.com that closed a $200K MYGA and relays a Matthew Allen point that Social Security is typically a ~$1M asset.",
+      "entities": [
+        {
+          "name": "Tom Hegna",
+          "type": "person",
+          "description": "Retirement-income educator, ex-military, former top individual annuity seller and New York Life annuity trainer; PBS/CNBC; author; appears twice monthly on The Closing Room; 'Tom Hegna on demand' AI is a Lead Pro perk."
+        },
+        {
+          "name": "Brett Blake",
+          "type": "person",
+          "description": "CEO of annuity.com; hosts The Closing Room."
+        },
+        {
+          "name": "Amy",
+          "type": "person",
+          "description": "annuity.com staff member who monitors chat/hosts (also manages concierge dept per other videos)."
+        },
+        {
+          "name": "annuity.com",
+          "type": "company",
+          "description": "IMO/technology-driven annuity distributor with consumer brand; has a Find an Agent page that generates consumer leads."
+        },
+        {
+          "name": "The Closing Room",
+          "type": "program",
+          "description": "Free weekly agent training/Q&A, Tuesdays 11:00 AM Pacific; Facebook page lists speakers; VIP event follows some sessions."
+        },
+        {
+          "name": "New York Life",
+          "type": "company",
+          "description": "Insurer where Hegna built annuity training; example carrier offering SPIA with zero issue age and joint life 50% death benefit."
+        },
+        {
+          "name": "Western & Southern",
+          "type": "company",
+          "description": "Insurer cited as also offering joint lifetime income SPIAs."
+        },
+        {
+          "name": "Kinder brothers",
+          "type": "person",
+          "description": "Hegna credits them as source of many holiday client-outreach ideas."
+        },
+        {
+          "name": "John Stevenson ('the guaranteed annuity guy')",
+          "type": "person",
+          "description": "YouTube annuity expert, multi-million producer; next week's guest."
+        },
+        {
+          "name": "Matthew Allen",
+          "type": "person",
+          "description": "CEO of Social Security Advisors; referenced via a Safe Money Radio recording."
+        },
+        {
+          "name": "Safe Money Radio",
+          "type": "program",
+          "description": "annuity.com podcast/YouTube show hosted by Brett Blake."
+        },
+        {
+          "name": "MDRT",
+          "type": "organization",
+          "description": "Million Dollar Round Table; year-end production targets drive December sales."
+        },
+        {
+          "name": "Fidelity",
+          "type": "company",
+          "description": "Cited as an AUM firm that sells billions of annuities and saw AUM rise after doing so."
+        }
+      ],
+      "terms_definitions": [
+        {
+          "term": "SPIA (Single Premium Immediate Annuity)",
+          "definition": "Annuity funded with one premium that begins income right away; can be written joint-life on two people (e.g., grandparent + grandchild). Not available as a fixed index annuity.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "DIA (Deferred Income Annuity)",
+          "definition": "Income annuity whose payments start at a future date; can also be used for the grandparent/grandchild structure.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Zero issue age",
+          "definition": "A SPIA that accepts newborn/young annuitants; many SPIAs require age 18+. Needed for grandparent-grandchild joint-life contracts.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Joint life with 50% death benefit",
+          "definition": "SPIA option that, upon the death of the last annuitant, pays 50% of the original premium to a beneficiary; the death benefit portion is treated as return of principal (tax-free) per Hegna.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Exclusion ratio",
+          "definition": "Method by which part of each SPIA payment is treated as tax-free return of principal.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Successor owner",
+          "definition": "Person named to take over ownership/income checks of an annuity at the owner's death; enables 'five lifetimes, one annuity'. If not exercised, the young joint annuitant receives the checks.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "10-pay life policy",
+          "definition": "Permanent life policy (whole life, IUL, GUL) where premiums are paid for 10 years then policy is paid up; used for grandchild gifting.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "MYGA (Multi-Year Guaranteed Annuity)",
+          "definition": "Fixed annuity with guaranteed rate for a term; competes with CDs. Hegna's 'triple interest': principal earns interest, interest earns interest, and money that would have gone to taxes earns interest (tax deferral).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "RMD",
+          "definition": "Required Minimum Distribution; Hegna says to begin planning conversations in client's 60s before RMDs start at 73.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "QLAC",
+          "definition": "Qualified Longevity Annuity Contract; mentioned as 60s-age planning topic.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "IRMAA",
+          "definition": "Income-Related Monthly Adjustment Amount; Medicare surcharge; RMDs can raise it and increase taxation of Social Security.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Term conversion",
+          "definition": "Converting a term life policy to permanent coverage; holiday outreach idea because term premiums rise annually.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Poor man's trust",
+          "definition": "Hegna's phrase: life insurance and annuities pass directly to beneficiaries without a trust.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Fiduciary (Hegna's view)",
+          "definition": "Obligation to act in client's best interest; enforced only through lawsuits—no monitoring body checks fiduciaries. Selling only one product type is inconsistent with being a fiduciary (7-iron golf analogy).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "term": "Assets under management (AUM) conflict",
+          "definition": "Advisors paid on AUM may avoid recommending annuities/longevity products; Hegna notes annuities with fee options now exist so commissions aren't required.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        }
+      ],
+      "claims_stats": [
+        {
+          "claim": "December is always the #1 month for life insurance and annuity production (company/MDRT year-end).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "A joint-life SPIA with 50% death benefit can potentially pay out about $2.6M on a $100,000 premium across grandparent, grandchild and great-grandchild (Hegna illustration; New York Life contract; inflation option).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Great-grandchild would receive $50,000 tax-free on a $100,000 premium with 50% death benefit (Hegna).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Fewer than 1% of agents know the five-lifetimes-one-annuity structure (Hegna's estimate).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Joint SPIA payout is based on the younger annuitant's age, so payout rate is lower.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Hegna's 12-pay whole life premium was $226,000/yr; he put in about $2.3M and cash value is about $3.8M (year 15–16).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Hegna saved 30–40% of income for his whole career and says he has paid no interest in 35+ years.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Research cited by Brett: roughly 60–70% of people plan to change financial advisor after death of a spouse or parent.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Per Matthew Allen (via Brett): Social Security is often a ~$1M+ asset; $2,500–$2,800/mo per person, ~$3,500/mo couple would take almost $1M in an immediate annuity to replace (Hegna).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "An annuity.com agent closed a $200K MYGA from a Find-an-Agent page lead from Florida.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Fidelity sells billions of annuities and its AUM rose after it did (Hegna).",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "claim": "Don't Worry, Retire Happy story: newly divorced woman at 55 with almost nothing retired at 71 with more income than ever by saving heavily, delaying Social Security and working to 71.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        }
+      ],
+      "sales_teachings": [
+        {
+          "teaching": "Hold a family financial meeting during holidays",
+          "detail": "Gather the whole family; agents lose business when the breadwinner dies because spouse/children weren't engaged. Use Claude/Grok to generate agenda/15 questions; ask parents what they want to accomplish and permission to call the children; act as facilitator/'quarterback'; whiteboard issues; bring in specialists later.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Grandparent 'never be forgotten' story",
+          "detail": "Have client try listing four grandparents and eight great-grandparents (can't); contrast with Rockefeller descendants who get annual trust checks. Propose joint-life SPIA with 5-year-old granddaughter paying on her birthday.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "10-pay life policy for grandchild",
+          "detail": "Solve for $100K/$250K/$500K/$1M at age 65; show premiums; policy accessible earlier for college/home down payment (no 59½ rule); grandfather can write a love note in the policy.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Five lifetimes with one SPIA",
+          "detail": "Joint life grandpa + granddaughter; chain successor owners grandma→son→son's wife→granddaughter.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Holiday outreach list",
+          "detail": "Call widows/widowers (lonely); early-60s for SS/Roth/QLAC/RMD/IRMAA; IRA/401(k) rollovers; term conversions; age-change birthdays (Oct–Feb); rated/smoker policy re-underwrites; centers of influence (attorneys, CPAs, clergy); deliver small gifts in person; Valentine's lunch for widows/widowers.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Overcome 'call me in January'",
+          "detail": "Give specific urgent reasons: upcoming birthday raising premiums, family coming to town, rising costs with age; and keep other holiday prospects in the pipeline.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Show whole life/IUL isn't more expensive",
+          "detail": "For permanent insurance, premiums stay in the policy as cash value; aim for highest premium, not cheapest.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Ask questions, don't tell",
+          "detail": "New agents' biggest mistake is talking too much. 'Find problems, solve problems.' Don't be an 'annuity retailer'; let the client talk themselves into needing an annuity.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Answering 'are you a fiduciary?'",
+          "detail": "Reframe: 'I always do what's best for you regardless of label'; point out fiduciary is enforced only by lawsuits, and one-product agents or no-annuity AUM advisors aren't truly serving best interest. (Compliance caveat: Brett noted 'aside from the obvious compliance'.)",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Always do what's best for the client",
+          "detail": "Hegna says he out-earned colleagues by ignoring commission schedules; trust drives referrals.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Use MYGA as the door-opener",
+          "detail": "MYGA leads (CD season) can open the relationship; sell the MYGA then broaden to portfolio conversation.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Reassure late starters via Social Security as base",
+          "detail": "Tell prospects they already own a ~$1M Social Security asset as a base to build on; show real dollar cost of replacing via immediate annuity quotes.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "teaching": "Early-stage agent mindset",
+          "detail": "New agents can identify problems in meetings and bring back questions to the annuity.com community rather than force answers.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        }
+      ],
+      "notable_quotes": [
+        {
+          "quote": "Telling is not selling. Listening is selling. Asking questions is selling.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "Find problems, solve problems. Be a good problem finder and be a good problem solver.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "You don't have to sell annuities. The annuities will sell themselves.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "Trust is the most valuable thing you can have with your clients.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "Always do what's best for the client. You'll always make the most money in your office.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "Five lifetimes, one annuity.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "I would just say I do what's best for the client, doesn't matter fiduciary, not fiduciary.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "There's nobody out there enforcing fiduciary rules. You know how fiduciaries enforced? Through lawsuits.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "MYGAs, multi-year guaranteed annuities pay triple interest. Your principal earns interest, your interest earns interest, and the money you would have paid in taxes earns interest.",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        },
+        {
+          "quote": "MIGA is can be the doorway you walk into to gain that trust and access to everything else. [unclear: 'MIGA' = MYGA]",
+          "source_video": "nHAh12_2Wsg_The Closing Room- November 2026.en.txt"
+        }
+      ],
+      "topics": [
+        "holiday sales",
+        "grandparent planning",
+        "SPIA structures",
+        "10-pay life insurance",
+        "family meetings",
+        "fiduciary positioning",
+        "new agent coaching",
+        "MYGA/CD season",
+        "RMD/IRMAA/Social Security outreach",
+        "agent ethics",
+        "annuity.com lead flow"
+      ]
+    },
+    {
+      "video_file": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt",
+      "title_guess": "The Agent Opportunity – November 2026 (Brett Blake: Reinventing Retirement Distribution)",
+      "summary": "Brett Blake's weekly (Wednesday) recruiting presentation 'Joining us in reinventing retirement distribution.' Pitches annuity.com as a technology company reinventing annuity distribution rather than another IMO fighting for the same ~100,000 producing agents. Frames retirement distribution as broken (retirees afraid to spend; 'mountain of money' vs 'river of money'), sizes the market (~$2.3T annual guaranteed-income opportunity; annuity sales $219B→$464B since COVID), and lays out a four-phase intelligence roadmap using FedEx hub-and-spoke and Amazon analogies: (1) hub-and-spoke referral from Medicare agents/CPAs; (2) Policy Intelligence System; (3) Portfolio Intelligence System; (4) Marketing Intelligence System. Shares progress (900+ enrolled, 800+ licensed, ~430 carrier-contracted; 80+ carriers), and 'top seven' reasons to join: full street commission day one, uncapped/cap-the-company, real equity, free tech (AI licensing prep, guaranteed income sheet), free concierge case management, lead programs (Medicare/RAMP, seminars, Lead Pro with leads now delivered free), no-lock-in release guarantee. Describes Lead Pro bundle at $199, training cadence, brand claims, and joinannuity enrollment. Ends with Q&A from a new agent about annuity training.",
+      "entities": [
+        {
+          "name": "annuity.com",
+          "type": "company",
+          "description": "Self-described technology company/IMO reinventing retirement distribution; sole consumer brand IMO in annuity space (per Brett)."
+        },
+        {
+          "name": "Brett Blake",
+          "type": "person",
+          "description": "CEO; presents weekly Wednesday opportunity call; personal join link format firstname-lastname.joinannuity.com (/live for live stream)."
+        },
+        {
+          "name": "Amy",
+          "type": "person",
+          "description": "Manager of annuity.com concierge department (per Brett); also helps run calls."
+        },
+        {
+          "name": "Leia",
+          "type": "person",
+          "description": "Concierge team member praised by a top producer [unclear spelling]."
+        },
+        {
+          "name": "Tom Hegna",
+          "type": "person",
+          "description": "Training partner; Tom Hegna on demand AI/library included with Lead Pro."
+        },
+        {
+          "name": "Roy Snarr",
+          "type": "person",
+          "description": "Top producer/trainer; seminar program leader."
+        },
+        {
+          "name": "Bill Broach",
+          "type": "person",
+          "description": "Mentor/trainer on top-producer team."
+        },
+        {
+          "name": "John Stevenson",
+          "type": "person",
+          "description": "Joined as $5M producer; said on track to $50M; speaker on Closing Room."
+        },
+        {
+          "name": "Lead Pro",
+          "type": "product",
+          "description": "Agent business bundle subscription ($199 per Nov 2026 call): CRM, automation, appointment setting, personalized bi-weekly newsletter, find-an-agent listing, annuity.com subdomain site, email/phone with texting, Tom Hegna on demand, and now free partner-acquired leads."
+        },
+        {
+          "name": "RAMP",
+          "type": "program",
+          "description": "Medicare-agent pathway to begin selling annuities."
+        },
+        {
+          "name": "Concierge case management",
+          "type": "program",
+          "description": "Free service reviewing Firelight submissions, checking nightly for stuck cases, communicating with agent."
+        },
+        {
+          "name": "Firelight",
+          "type": "product",
+          "description": "Electronic application platform used for annuity submissions."
+        },
+        {
+          "name": "Agent HQ / training center",
+          "type": "product",
+          "description": "Back-office hub with training and tools."
+        },
+        {
+          "name": "Safe Money Radio",
+          "type": "program",
+          "description": "Podcast designed to generate leads for agents."
+        },
+        {
+          "name": "Financial Guys",
+          "type": "partner",
+          "description": "Partnership mentioned for lead/movie work [unclear]."
+        },
+        {
+          "name": "Real estate disruptor (unnamed)",
+          "type": "company",
+          "description": "Comparison company that took 6 years to enroll 864 agents before inflection; used as growth benchmark (likely eXp Realty—not named in transcript)."
+        }
+      ],
+      "terms_definitions": [
+        {
+          "term": "Mountain of money vs river of money",
+          "definition": "Brett's framing: converting a lump-sum savings 'mountain' into a guaranteed monthly income 'river' helps retirees spend confidently and reduces stress.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Re-home money",
+          "definition": "Moving 401(k)/IRA assets into guaranteed lifetime income products.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Hub and spoke (FedEx moment)",
+          "definition": "Phase 1: experienced annuity agents are hubs; feeders such as Medicare agents and CPAs are spokes who book senior appointments and share street commission.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Retirement intelligence system",
+          "definition": "annuity.com's planned data/AI stack: Core (launched), Policy Intelligence, Portfolio Intelligence, Marketing Intelligence.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Policy intelligence system",
+          "definition": "Predicts replacement/maturity opportunities among policies in force so original agents earn the ~70% repeat/replacement business.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Portfolio intelligence system",
+          "definition": "Views client's full financial picture (accounts, maturing CDs for MYGAs, inheritance money) to find redeployment opportunities; claimed 70% more business.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Marketing intelligence system",
+          "definition": "Uses search/reading/conversation data to improve messaging and automate agent outreach.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Cap the company",
+          "definition": "Once an agent produces $5M, annuity.com stops earning override; the company dollar passes to the agent.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Full street commission",
+          "definition": "Carrier's full agent commission paid from day one without upline skim.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Agency builder program",
+          "definition": "Override program for building own agency; upline paid from money normally spent on recruiters.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Phantom stock",
+          "definition": "Bonus repackaged as equity; Brett contrasts it with annuity.com's real vesting shares.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "IMO",
+          "definition": "Independent Marketing Organization that distributes insurance products through agents.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "term": "Concierge case management",
+          "definition": "Free review of submitted applications and nightly follow-up until policy issued.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        }
+      ],
+      "claims_stats": [
+        {
+          "claim": "COMPANY: ~$2.3 trillion annual guaranteed-income opportunity (retirees with 401(k)/IRAs).",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "MARKET: Annuity sales grew from $219B to $464B since COVID; mutual fund industry is a $22T opportunity for accumulation-style products.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "MARKET: ~100,000 trained, producing annuity agents and declining; up to 70% of business is repeat business from existing annuity owners.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: 900+ agents enrolled, 800+ licensed, ~430 contracted with a carrier; 80+ carriers available.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Real-estate comparison company took six years to enroll 864 agents; annuity.com claims to be ahead.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Claims agents will write up to 70% more business with the intelligence systems.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Policy intelligence system targeted to launch within 6 months; Core already launched.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro subscribers began receiving company-acquired leads 'yesterday'—est. 1 to 3 per week depending on location/licensing.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro is $199; Brett says bundle would cost almost $1,000 with leads; website redesign for AI/local search coming within about a week.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Stock: ~$15,000/yr restricted stock potential (production tiers $1M/$3M/$5M), same amount as board members; vests.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Aspiration: 5% market share = $100B annual annuity sales.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY/ANECDOTE: Producers seeing $10–12M/yr via Medicare-agent relationships; one agent couple has $120M built from ~50 Medicare agents.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL/RESEARCH: Wealthy retirees fear spending; guaranteed income linked to less stress and longer life (Brett's characterization of research).",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        }
+      ],
+      "sales_teachings": [
+        {
+          "teaching": "Pitch to recruit agents",
+          "detail": "Lead with compensation transparency, full street, ownership, release guarantee, brand, technology.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "teaching": "Use referral spokes",
+          "detail": "Teach non-annuity professionals (Medicare agents, CPAs, P&C agents) to start conversations and book appointments; partner them with experienced agent.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "teaching": "Invite prospects to the live call",
+          "detail": "Share personal joinannuity.com/live link so prospects are auto-placed on your team.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "teaching": "Medicare agent relationships as lead engine",
+          "detail": "Set up flows with ~50 Medicare agents for sustained annuity leads.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "teaching": "Move early for equity",
+          "detail": "Early joiners hold stock at lowest valuation—urgency CTA.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "teaching": "Position as teaching to fish",
+          "detail": "Program stack (RAMP, seminars, Lead Pro, referral) aims for sustainable independent lead flow.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        }
+      ],
+      "notable_quotes": [
+        {
+          "quote": "We really fundamentally believe that retirement distribution is broken and it needs to be fixed and our goal is to use technology and use new systems to reinvent it entirely.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "Research shows that when you can actually help them convert that pile of money into or the mountain of money into a river of money, and they know that they have a guaranteed income... something happens. Their retirement changes.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "It's like trying to drain a modern dam with an old Roman aqueduct.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "We are a technology company. We are a company reinventing distribution.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "We have full street commission from day one. We don't take your commission to feed your upline.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "Instead of capping you, we cap our earnings on every agent every year.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "Every other IMO wants you to build their company. We'd rather you own ours.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "We're the only consumer brand in the annuity space and for sure the only consumer brand IMO in the industry.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "Unlike other IMO's where if you sign up you're stuck, you have to go sit on the sidelines for six months before you can get released. We guarantee our new agents that if you aren't happy... we're going to release you. No questions asked.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        },
+        {
+          "quote": "Nothing about the house has changed, but the agents become better.",
+          "source_video": "nHXxU8t5qaI_The Agent Opportunity- November 2026.en.txt"
+        }
+      ],
+      "topics": [
+        "agent recruiting",
+        "IMO differentiation",
+        "retirement distribution",
+        "FedEx/Amazon analogy",
+        "AI intelligence systems",
+        "Lead Pro",
+        "concierge",
+        "commission structure",
+        "equity program",
+        "Medicare referral",
+        "seminars"
+      ]
+    },
+    {
+      "video_file": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt",
+      "title_guess": "Opportunity Call – April 2026 (Brett Blake + Keith Callahan testimonial)",
+      "summary": "Brett Blake's annuity.com agent opportunity presentation (April 2026 era; audio transcript essentially identical to the undated Agent Opportunity video, ends with handoff to Amy for Q&A). Argues many IMOs skim commissions (example: $10M producer paid $250K vs $600K full street, $350K kept). Lists annuity.com's answers: pre-release letter, 100% street commission, cap-the-company at $5M, agency builder virtual team (50% recruiting budget split over 7 degrees), real equity program ($1K/$4K/$10K restricted stock at $1M/$3M/$5M production), 60+ carriers/2,400+ products, new-agent apprenticeship path (appointment setter→fact finder→application, 60% then 100%), pathways (qualified leads/Financial partner, seminars via Roy Snarr, team selling, RAMP for Medicare agents), brand/AI referral claims, Lead Pro bundle (caption '$1.99 a month' is almost certainly $199/month [unclear]), onboarding steps, and a testimonial from new agent Keith Callahan who ran a $3,000 seminar that filled a 55-person room.",
+      "entities": [
+        {
+          "name": "annuity.com",
+          "type": "company",
+          "description": "IMO built as agent-first alternative; claims growth ~5x faster than average IMO and 800+ agents."
+        },
+        {
+          "name": "Brett Blake",
+          "type": "person",
+          "description": "CEO presenter; new to annuity space, formerly CEO of several companies."
+        },
+        {
+          "name": "Bill Broach",
+          "type": "person",
+          "description": "Mentor to Brett; helped develop seminar program."
+        },
+        {
+          "name": "Roy Snarr",
+          "type": "person",
+          "description": "Top seminar leader whose team runs the seminar pathway."
+        },
+        {
+          "name": "Keith Callahan",
+          "type": "person",
+          "description": "Newer agent testimonial; first seminar $3,000 spend, 55 capacity room."
+        },
+        {
+          "name": "Amy",
+          "type": "person",
+          "description": "Hosts Q&A; announces Fast Start $100 reimbursement."
+        },
+        {
+          "name": "Financial Guys / Financial I",
+          "type": "partner",
+          "description": "Preferred partner for qualified leads pathway [unclear caption: 'Financialize'/'Financial I']."
+        },
+        {
+          "name": "Lead Pro",
+          "type": "product",
+          "description": "Subscription bundle: CRM, done-for-you twice-monthly newsletter, personal subdomain/email, business phone line, Find-an-Agent + AI referral listing, Tom Hegna on demand."
+        },
+        {
+          "name": "RAMP",
+          "type": "program",
+          "description": "Medicare agent pathway to annuity selling."
+        },
+        {
+          "name": "Tom Hegna",
+          "type": "person",
+          "description": "On-demand training included in Lead Pro."
+        },
+        {
+          "name": "John D. Rockefeller",
+          "type": "person",
+          "description": "Referenced for leverage idea: 1% of 100 people's efforts vs 100% of own."
+        }
+      ],
+      "terms_definitions": [
+        {
+          "term": "Pre-release letter",
+          "definition": "Signed letter from the CEO emailed to each agent before first case guaranteeing release of contracts if the agent leaves, no questions or delays.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Street commission",
+          "definition": "Full commission carriers pay to agents; IMOs often retain part as override.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Cap the company",
+          "definition": "After $5M production the agent 'caps' annuity.com; company override passes to agent.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Agency builder program",
+          "definition": "Virtual team compensation: 50% typical IMO recruiting spend split over seven degrees of recruited agents.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Restricted stock awards (not phantom)",
+          "definition": "$1K at $1M production, $4K at $3M, $10K at $5M annually ($15K potential); real equity.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Appointment setter / fact finder / team selling",
+          "definition": "New-agent ladder: set appointments, collect facts, then handle applications; earn ~60% of case then 100% street commission as skills grow; experienced agents share appointment-setter commission.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "Performance pathways",
+          "definition": "Training center/community, qualified leads, seminars, team selling, RAMP.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "term": "AI referral listing",
+          "definition": "Listing so AI assistants can refer consumers to Lead Pro agents.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        }
+      ],
+      "claims_stats": [
+        {
+          "claim": "MARKET: $460B annuity sales in 2025, >100% growth since COVID; 11,200 Americans retire every month; >$2T annual opportunity.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY ANECDOTE: Agent with $10M production earned $250K vs $600K full street; IMO kept $350K.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: 60+ carriers, 2,400+ products; 800+ agents; ~5x faster growth than average IMO.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Seminar costs below $4,000 per Roy Snarr's team; ~20% show rate guidance; Keith's seminar: $3,000, ~100 registrations, room at 55 capacity within 10 minutes; advice to run six in 3 months.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro worth >$500 separately; priced (caption) '$1.99 a month' [unclear: likely $199]; one below-average $100,000 sale pays for ~3 years of Lead Pro (consistent with ~$199/mo? arithmetic unclear).",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro agents receiving calls from AI-referred clients today.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "claim": "COMPANY: Top producers with 12M/15M/30M volumes (caption muddled [unclear]).",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        }
+      ],
+      "sales_teachings": [
+        {
+          "teaching": "Nurture 'no' leads in a CRM",
+          "detail": "Prospects often resurface a year+ later; Lead Pro automation recovers them.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "teaching": "Seminar pathway execution",
+          "detail": "Registrations ~100 for 20% show; plan room capacity; materials down to colors/pencils; repeat 6 seminars.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "teaching": "New agent earning path",
+          "detail": "Start with appointment setting and fact-finding, paired with senior advisor; learn case design later.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "teaching": "Brand as trust asset",
+          "detail": "Annuity decision is among the most significant and hard to reverse; trust usually found in brand; leverage annuity.com subdomain.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "teaching": "Transparent pay signals value",
+          "detail": "'The way a company pays you reveals exactly how much they value you.'",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        }
+      ],
+      "notable_quotes": [
+        {
+          "quote": "Most IMOs pay you less than you've earned.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "We're not going to stand in the middle and take money that belongs to our agents.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "You cap us. We don't cap you.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "The way a company pays you reveals exactly how much they value you.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "You're building it, you should own it.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "You're not an indentured servant to us.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "In America, trust is usually found in a brand. But when you think about annuities, there isn't a trusted brand.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "Get enrolled, get trained, get focused, and you'll be off with annuity.com.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "I feel prepared. I feel supported.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        },
+        {
+          "quote": "It looked like a nightclub.",
+          "source_video": "sIVRC4CoaKk_Opportunity Call - April 2026.en.txt"
+        }
+      ],
+      "topics": [
+        "IMO commission skimming",
+        "pre-release",
+        "cap the company",
+        "agency builder",
+        "equity",
+        "new agent pathway",
+        "seminars",
+        "Lead Pro",
+        "AI referral",
+        "enrollment steps"
+      ]
+    },
+    {
+      "video_file": "tM9rUrCOy5A_The Agent Opportunity.en.txt",
+      "title_guess": "The Agent Opportunity (undated; same core presentation as April 2026 Opportunity Call + Fast Start announcement)",
+      "summary": "Brett Blake's annuity.com agent opportunity presentation (April 2026 era; near-duplicate script; ends with Amy announcing Fast Start $100 reimbursement). Argues many IMOs skim commissions (example: $10M producer paid $250K vs $600K full street, $350K kept). Lists annuity.com's answers: pre-release letter, 100% street commission, cap-the-company at $5M, agency builder virtual team (50% recruiting budget split over 7 degrees), real equity program ($1K/$4K/$10K restricted stock at $1M/$3M/$5M production), 60+ carriers/2,400+ products, new-agent apprenticeship path (appointment setter→fact finder→application, 60% then 100%), pathways (qualified leads/Financial partner, seminars via Roy Snarr, team selling, RAMP for Medicare agents), brand/AI referral claims, Lead Pro bundle (caption '$1.99 a month' is almost certainly $199/month [unclear]), onboarding steps, and a testimonial from new agent Keith Callahan who ran a $3,000 seminar that filled a 55-person room.",
+      "entities": [
+        {
+          "name": "annuity.com",
+          "type": "company",
+          "description": "IMO built as agent-first alternative; claims growth ~5x faster than average IMO and 800+ agents."
+        },
+        {
+          "name": "Brett Blake",
+          "type": "person",
+          "description": "CEO presenter; new to annuity space, formerly CEO of several companies."
+        },
+        {
+          "name": "Bill Broach",
+          "type": "person",
+          "description": "Mentor to Brett; helped develop seminar program."
+        },
+        {
+          "name": "Roy Snarr",
+          "type": "person",
+          "description": "Top seminar leader whose team runs the seminar pathway."
+        },
+        {
+          "name": "Keith Callahan",
+          "type": "person",
+          "description": "Newer agent testimonial; first seminar $3,000 spend, 55 capacity room."
+        },
+        {
+          "name": "Amy",
+          "type": "person",
+          "description": "Hosts Q&A; announces Fast Start $100 reimbursement."
+        },
+        {
+          "name": "Financial Guys / Financial I",
+          "type": "partner",
+          "description": "Preferred partner for qualified leads pathway [unclear caption: 'Financialize'/'Financial I']."
+        },
+        {
+          "name": "Lead Pro",
+          "type": "product",
+          "description": "Subscription bundle: CRM, done-for-you twice-monthly newsletter, personal subdomain/email, business phone line, Find-an-Agent + AI referral listing, Tom Hegna on demand."
+        },
+        {
+          "name": "RAMP",
+          "type": "program",
+          "description": "Medicare agent pathway to annuity selling."
+        },
+        {
+          "name": "Tom Hegna",
+          "type": "person",
+          "description": "On-demand training included in Lead Pro."
+        },
+        {
+          "name": "John D. Rockefeller",
+          "type": "person",
+          "description": "Referenced for leverage idea: 1% of 100 people's efforts vs 100% of own."
+        }
+      ],
+      "terms_definitions": [
+        {
+          "term": "Pre-release letter",
+          "definition": "Signed letter from the CEO emailed to each agent before first case guaranteeing release of contracts if the agent leaves, no questions or delays.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Street commission",
+          "definition": "Full commission carriers pay to agents; IMOs often retain part as override.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Cap the company",
+          "definition": "After $5M production the agent 'caps' annuity.com; company override passes to agent.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Agency builder program",
+          "definition": "Virtual team compensation: 50% typical IMO recruiting spend split over seven degrees of recruited agents.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Restricted stock awards (not phantom)",
+          "definition": "$1K at $1M production, $4K at $3M, $10K at $5M annually ($15K potential); real equity.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Appointment setter / fact finder / team selling",
+          "definition": "New-agent ladder: set appointments, collect facts, then handle applications; earn ~60% of case then 100% street commission as skills grow; experienced agents share appointment-setter commission.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Performance pathways",
+          "definition": "Training center/community, qualified leads, seminars, team selling, RAMP.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "Fast Start program",
+          "definition": "Complete onboarding within a month and receive $100 reimbursement of Lead Pro price.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "term": "AI referral listing",
+          "definition": "Listing so AI assistants can refer consumers to Lead Pro agents.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        }
+      ],
+      "claims_stats": [
+        {
+          "claim": "MARKET: $460B annuity sales in 2025, >100% growth since COVID; 11,200 Americans retire every month; >$2T annual opportunity.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY ANECDOTE: Agent with $10M production earned $250K vs $600K full street; IMO kept $350K.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY: 60+ carriers, 2,400+ products; 800+ agents; ~5x faster growth than average IMO.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY: Seminar costs below $4,000 per Roy Snarr's team; ~20% show rate guidance; Keith's seminar: $3,000, ~100 registrations, room at 55 capacity within 10 minutes; advice to run six in 3 months.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro worth >$500 separately; priced (caption) '$1.99 a month' [unclear: likely $199]; one below-average $100,000 sale pays for ~3 years of Lead Pro (consistent with ~$199/mo? arithmetic unclear).",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY: Lead Pro agents receiving calls from AI-referred clients today.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "claim": "COMPANY: Top producers with 12M/15M/30M volumes (caption muddled [unclear]).",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        }
+      ],
+      "sales_teachings": [
+        {
+          "teaching": "Nurture 'no' leads in a CRM",
+          "detail": "Prospects often resurface a year+ later; Lead Pro automation recovers them.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "teaching": "Seminar pathway execution",
+          "detail": "Registrations ~100 for 20% show; plan room capacity; materials down to colors/pencils; repeat 6 seminars.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "teaching": "New agent earning path",
+          "detail": "Start with appointment setting and fact-finding, paired with senior advisor; learn case design later.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "teaching": "Brand as trust asset",
+          "detail": "Annuity decision is among the most significant and hard to reverse; trust usually found in brand; leverage annuity.com subdomain.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "teaching": "Transparent pay signals value",
+          "detail": "'The way a company pays you reveals exactly how much they value you.'",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        }
+      ],
+      "notable_quotes": [
+        {
+          "quote": "Most IMOs pay you less than you've earned.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "We're not going to stand in the middle and take money that belongs to our agents.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "You cap us. We don't cap you.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "The way a company pays you reveals exactly how much they value you.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "You're building it, you should own it.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "You're not an indentured servant to us.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "In America, trust is usually found in a brand. But when you think about annuities, there isn't a trusted brand.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "Get enrolled, get trained, get focused, and you'll be off with annuity.com.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "I feel prepared. I feel supported.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        },
+        {
+          "quote": "It looked like a nightclub.",
+          "source_video": "tM9rUrCOy5A_The Agent Opportunity.en.txt"
+        }
+      ],
+      "topics": [
+        "IMO commission skimming",
+        "pre-release",
+        "cap the company",
+        "agency builder",
+        "equity",
+        "new agent pathway",
+        "seminars",
+        "Lead Pro",
+        "AI referral",
+        "enrollment steps"
+      ]
+    },
+    {
+      "video_file": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt",
+      "title_guess": "Maximizing Your Client's Social Security with Matthew Allen (annuity.com training, 2026)",
+      "summary": "Training webinar announcing annuity.com's partnership with Social Security Advisors (SSA-alumni advisory firm, owners of irma.com) and featuring CEO Matthew Allen. Brett introduces the partnership (back office for agents; liability shifted to SSA-advisors; IRMAA 2027 follow-up Dec 9, 10am PT). Allen covers: why ~70% of Americans leave money on the table (~$120K per couple, $25B/yr); complexity (2,728 rules, 9,200+ strategies); SSA legally can't give advice; core basics (top 35 years, age 62/FRA 67/70, 8% delayed credits); can vs. should claim; deemed filing; married strategies (higher/lower earner rules of thumb, time value of money, spousal vs survivor benefits, voluntary suspension); divorced spouse rules (10-yr marriage, independent entitlement after 2 yrs); survivor benefits (OIG found 82% misinformation, John & Susan $221K example, 'survivor surprise'); singles 'rat holes'; business owner S-corp payroll tax tactic; retroactive benefits; reliance and trust fund 2032 projection; earnings test ($24,480 for 2026); Social Security Fairness Act (WEP/GPO repeal, retroactive to Jan 2024); family/child/disability benefits; withdrawal of application; four ways to file; IRMAA appeals and life-changing events; and the service/fee schedule and free tools (chat widget, co-branded consult links). Strong definitional/SEO content.",
+      "entities": [
+        {
+          "name": "Matthew Allen",
+          "type": "person",
+          "description": "Co-founder and CEO of Social Security Advisors; ~18 years advising; trained annuity.com agents."
+        },
+        {
+          "name": "Social Security Advisors",
+          "type": "company",
+          "description": "Private firm advising on SS planning, filing, troubleshooting, IRMAA appeals; advisors are ex-SSA staff with 15+ years (many 20+, 'technical experts'); owns irma.com; claims most experience and best win rates nationally; free initial consultations; satisfaction guarantee; socialsecurityadvisors.com/annuity partner page; socialsecurity@annuity.com routes to them."
+        },
+        {
+          "name": "annuity.com",
+          "type": "company",
+          "description": "Partnered with Social Security Advisors; hosting the training; Brett Blake CEO."
+        },
+        {
+          "name": "Brett Blake",
+          "type": "person",
+          "description": "CEO host."
+        },
+        {
+          "name": "irma.com",
+          "type": "product",
+          "description": "Site/service owned by Social Security Advisors dedicated to IRMAA appeals."
+        },
+        {
+          "name": "Social Security Administration (SSA)",
+          "type": "organization",
+          "description": "Federal agency; legally prohibited from offering advice."
+        },
+        {
+          "name": "Office of the Inspector General (OIG)",
+          "type": "organization",
+          "description": "2018 report sampling ~100,000 survivor cases found SSA gave wrong survivor information 82% of the time (per Allen)."
+        },
+        {
+          "name": "Mary Beth Franklin",
+          "type": "person",
+          "description": "Well-known advisor/speaker; ~8-year partner of Social Security Advisors using chat widget and co-branded consult page."
+        },
+        {
+          "name": "Social Security Fairness Act",
+          "type": "law",
+          "description": "Recent legislation (passed 'last year' per Allen) repealing WEP and GPO."
+        },
+        {
+          "name": "Bipartisan Budget Act of 2015",
+          "type": "law",
+          "description": "Ended 'file and suspend'."
+        },
+        {
+          "name": "Medicare / IRMAA",
+          "type": "program",
+          "description": "Income-related Medicare Part B/D surcharges; SSA announces 2027 figures in December."
+        }
+      ],
+      "terms_definitions": [
+        {
+          "term": "Full Retirement Age (FRA)",
+          "definition": "Age at which unreduced retirement benefit is available; 67 for anyone born 1960 or later (66 for those born 1943–1954).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Earliest claiming age",
+          "definition": "62 for retirement benefits; survivors may claim as early as 60 (50 if disabled).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Delayed retirement credits",
+          "definition": "Benefit grows about 8% per year (2/3 of 1% per month) after FRA up to age 70; benefit at 62 ≈ 75% of FRA amount; at 70 historically up to 132% (now ≈124% for those born 1960+).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Primary Insurance Amount (PIA)",
+          "definition": "Formula SSA uses to compute benefit from highest 35 years of earnings; has three bend points (A, B, C); in bracket C only ~15 cents on each additional dollar is credited.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Top 35 years",
+          "definition": "Benefits are based on a worker's 35 highest-earning years.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Deemed filing rule",
+          "definition": "Filing a standard application is treated as applying for every benefit you may be eligible for, which can cause loss of benefits (esp. spousal and survivor cases); can be avoided in certain cases (restricted application).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Spousal benefit",
+          "definition": "Extra benefit available to lower earner based on higher earner's record without reducing the higher earner's benefit; requires higher earner to have filed in married couples.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Survivor benefit",
+          "definition": "Benefit paid to widow/widower; higher earner's claiming decision sets the ceiling; survivor generally gets the higher of the two benefits, not both ('survivor surprise').",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Survivor surprise",
+          "definition": "Survivors discover they can only keep the higher of two benefits (not both) when a spouse dies.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Voluntary suspension",
+          "definition": "After FRA, a person can pause benefits to restart delayed retirement credits (8%/yr, monthly); dependents' benefits also suspend; benefits auto-resume at 70. Distinct from repealed 'file and suspend' (ended by Bipartisan Budget Act of 2015).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Independent entitlement (divorced spouse)",
+          "definition": "After being divorced at least 2 years, and if ex-spouse is eligible age (typically 62), a divorced spouse can claim on the ex's record even if the ex hasn't filed; marriage must have lasted 10+ years.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Social Security earnings test",
+          "definition": "If under FRA and claiming, SSA withholds $1 of benefits per $2 earned above the limit ($24,480 in 2026 per Allen); test ends at FRA; withheld amounts are later re-credited via adjustment for reduction factor.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Retroactive benefits",
+          "definition": "If over FRA, a lump sum up to 6 months of back benefits can be claimed; reopening for SSA error can reach back to age 70.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Withdrawal of application",
+          "definition": "Within 1 year of claiming a person can withdraw once to fix a mistake.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "WEP/GPO",
+          "definition": "Windfall Elimination Provision / Government Pension Offset—negative rules reducing SS for people with non-covered pensions (teachers, police, firefighters); repealed by Social Security Fairness Act.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Disabled adult child benefit",
+          "definition": "Benefit for child disabled before 22.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Child in care benefit",
+          "definition": "Benefit for a spouse caring for an eligible child.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Social Security rat holes",
+          "definition": "Claiming ages for singles that fall into PIA formula dips: 62 to 63 and 11 months, and 65 and 4 months to 66 and 8 months—generally avoid.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "IRMAA (Income-Related Monthly Adjustment Amount)",
+          "definition": "Higher Medicare premiums for higher earners, based on income from two years prior; can be appealed after life-changing events (marriage, divorce, death of spouse, work stoppage, work reduction, loss of income-producing property).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Excess premiums",
+          "definition": "Overpaid Medicare premiums that may be recovered via IRMAA appeal even retroactively in the same year.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Disability benefit eligibility",
+          "definition": "Disability expected to prevent work for at least a year, with work in 2 of last 5 years (per Allen).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "term": "Four things to do with Social Security money",
+          "definition": "Spend, invest, pay down debt (all with time value), or—not recommended—park in non-interest checking.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        }
+      ],
+      "claims_stats": [
+        {
+          "claim": "EDUCATIONAL: ~70% of Americans don't maximize Social Security; costs a typical married couple ~$120,000 lifetime; >$25B per year system-wide.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: 2,728 rules and over 9,200 strategies for a typical married couple; lifetime benefits >$1M for typical couple.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "COMPANY (Social Security Advisors): 18 years advising; advisors ex-SSA 15–20+ years; most experience and best win rates nationwide (self-reported).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: OIG 2018 report: 82% of ~100,000 sampled survivor cases got wrong information from SSA.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL EXAMPLE: John/Susan: both $2,000 at FRA; Susan claims survivor at 60 ≈ $1,437/mo, own benefit at 70 ≈ $2,640 → ~$221K advantage (average life expectancy), ~$270K if longer-lived.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: 54.8% of people rely on Social Security for >50% of monthly income.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: Trust fund projected depletion 2032 (latest Trustees Report cited); ~78 workers per 100 retirees; ~22% funding gap; 85% of benefits taxable now (Allen predicts 100%).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: 2026 earnings test $24,480, $1 withheld for every $2 over.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: ~3.2 million people have non-covered pensions affected by WEP/GPO; Fairness Act benefits retroactive to January 2024 (>2.5 years).",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL EXAMPLE: $100K LLC profit incurs $15,300 (15.3%) payroll tax; S-corp with $30K reasonable salary: $4,590 payroll tax, saving ~$10,710.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EDUCATIONAL: Bracket C of PIA: only ~15 cents per additional dollar.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "COMPANY (SSA-advisors pricing): analysis from $124.95 simple single case; retirement claim filing $99.95; married/divorced/survivor analysis $250; some spousal filings near $200; retroactive cases charged % of recovery; IRMAA appeal $199.95 single, $400 married; troubleshooting custom; satisfaction guarantee; no upfront certification fees.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "COMPANY: IRMAA appeals can yield $4,000–$6,000 checks (example given); advisors have 15+ years doing appeals.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "claim": "EVENT: Matthew Allen returns for IRMAA 2027 session Dec 9, 10:00 AM Pacific / 11:00 AM Arizona.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        }
+      ],
+      "sales_teachings": [
+        {
+          "teaching": "Don't send clients to SSA for advice",
+          "detail": "SSA legally can't advise; clients often get three answers from three reps. Refer to a specialist instead.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Use Social Security as lead-gen and trust-builder",
+          "detail": "Conversations open doors for annuity business; annuities can fill cash-flow gap while delaying benefits; avoid tapping poor sources.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Survivor planning",
+          "detail": "Pre-plan before higher earner claims; counsel clients to avoid survivor surprise using annuities/life insurance to cushion drop.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Outsource liability",
+          "detail": "Partnership means advice liability sits with Social Security Advisors; agents needn't know all 2,728 rules.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Ask qualitative questions",
+          "detail": "Combine math with lifestyle (travel, family), health, family history, health vs peers.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Pitch business owners S-corp salary/distribution tilt",
+          "detail": "With CPA, reasonable-compensation compliance; saves payroll tax with little effect on benefits given PIA formula.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Hunt for Fairness Act clients",
+          "detail": "Identify clients/spouses/ex-spouses/survivors with non-covered pensions (teachers, police, firefighters) and refer for retroactive claims.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "IRMAA appeal outreach",
+          "detail": "Find clients with income drops/life events (including reworked rental property sales) and get premium refunds.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Free tools for prospecting",
+          "detail": "Chat widget (5-min install) feeds leads to agent; co-branded free consultation links; tracking spreadsheet.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "teaching": "Retroactive-claim triggers",
+          "detail": "Clients at ~73 confusing RMD age with SS 70; up to 6 months recoverable; reopening possible if SSA failed to send letter.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        }
+      ],
+      "notable_quotes": [
+        {
+          "quote": "The rules are thicker than the Bible.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "Too many people spend more time planning a vacation than they do their Social Security.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "When clients can claim is very different than when clients should claim.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "62, 67, 70, on the nose, those are almost never the optimal times to claim.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "One of the worst things that professionals can do when their clients ask about Social Security is to say, 'Well, go and talk to the Social Security Administration.'",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "Social Security is not going to be coming knocking down anybody's door.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "the higher earner essentially sets the tone or kind of sets the ceiling for how much of a survivor benefit could eventually be available to their younger spouse",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "You miss a nuance and you miss tens of thousands of dollars really easily.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "It was meant to be a safety net... basically not a retirement plan.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        },
+        {
+          "quote": "It's one thing to have a great strategy and it's a totally another thing to make sure it's actually implemented when the rubber meets the road.",
+          "source_video": "txVBQNelyZs_Maximizing Your Client’s Social Security with Matthew Allen.en.txt"
+        }
+      ],
+      "topics": [
+        "Social Security claiming strategy",
+        "survivor benefits",
+        "spousal benefits",
+        "divorced spouse",
+        "deemed filing",
+        "voluntary suspension",
+        "IRMAA appeals",
+        "earnings test",
+        "Social Security Fairness Act WEP GPO",
+        "trust fund 2032",
+        "business owner payroll tax",
+        "annuity cash-flow gap",
+        "partnership"
+      ]
+    }
+  ],
+  "synthesis": "Batch synthesis.\n1) Company vs educational. COMPANY content: videos 2–4 (Agent Opportunity Nov 2026, Opportunity Call Apr 2026, undated Agent Opportunity) are annuity.com recruiting pitches by CEO Brett Blake; videos 3 and 4 are near-duplicates (same script; undated one adds Amy's Fast Start $100 Lead Pro reimbursement) so dedupe when generating pages. Core company facts that recur: pre-release letter, 100% street commission from day one, cap-the-company at $5M, agency builder (7 degrees), real restricted stock ($1K/$4K/$10K at $1M/$3M/$5M), no lock-in, Lead Pro bundle, RAMP Medicare pathway, seminar pathway (Roy Snarr, Bill Broach), concierge, Tom Hegna on demand, sole consumer-brand IMO claim. Numbers changed over time: April 2026 says 800+ agents, 60+ carriers/2,400+ products, Lead Pro written '$1.99' (caption error, most likely $199); Nov 2026 says 900+ enrolled/800+ licensed/~430 contracted, 80+ carriers, Lead Pro $199, free company-acquired leads starting to flow, 4-phase intelligence roadmap. Use latest (Nov 2026) numbers; flag Lead Pro price and carrier/product counts as time-sensitive.\n2) EDUCATIONAL content is concentrated in video 5 (Social Security with Matthew Allen) and in Tom Hegna's Closing Room (video 1). The Social Security video yields ~20 definitions (FRA, delayed retirement credits, deemed filing, spousal vs survivor, voluntary suspension, independent entitlement, earnings test, PIA/bend points, WEP/GPO, retroactive benefits, IRMAA) suitable as glossary/FAQ/long-form SEO pages, with worked numeric examples (John & Susan $221K; S-corp payroll tax $15,300→$4,590). Caveats: figures are 2026-specific (earnings test $24,480; 2032 trust-fund projection) and must be verified against SSA before publishing; Allen's views (trust fund fixes, 100% taxation) are opinion; some rules (e.g., divorce-decree provisions, 'rat holes' ages, 85% taxation) should be fact-checked. Social Security Advisors pricing is partner company information, not annuity.com's.\n3) Cross-video links. (a) Hegna's early-60s outreach (SS, Roth, QLAC, RMD, IRMAA) is exactly what the Allen partnership operationalizes; Brett relays Allen's 'SS is a ~$1M asset' framing as a confidence-building opener, and Hegna's immediate-annuity-quote method prices that asset (~$3,500/mo couple ≈ nearly $1M). Allen explicitly connects annuities to SS: fill the cash-flow gap while delaying, survivor-surprise protection, and lead generation via chat widget. (b) 'Find problems, solve problems' (Hegna) parallels Allen's qualitative-question approach and the new-agent 'appointment setter→fact finder' ladder in the opportunity calls. (c) Trust/brand theme: Brett 'trust usually found in a brand; no trusted annuity brand', Hegna 'trust is the most valuable thing', MYGA as doorway, Find-an-Agent MYGA lead case study. (d) Agent-first ethics: transparent pay, no commission skimming (video 3/4), vs Hegna's 'do what's best for client' and fiduciary skepticism.\n4) SEO/marketing reuse ideas: MYGA 'triple interest' explainer; grandparent legacy annuity/10-pay life gifting; 'five lifetimes one annuity' (flag as advanced/carrier-dependent; Hegna's tax and payout claims need carrier/CPA verification); survivor benefits and 'survivor surprise'; IRMAA appeal guides ahead of Dec 9 session; Social Security Fairness Act retroactive claims; S-corp payroll tax and SS benefits; fiduciary myth content; 'why agents leave IMOs' and pre-release letter pages.\n5) Caption artifacts: 'IRMA' = IRMAA; 'MIGA' = MYGA; 'nudity.com'/'anuity.com' = annuity.com; 'Financialize/Financial I' partner name unclear; 'Leia' unclear; Lead Pro '$1.99' = likely $199; 'Roy Snar' = Roy Snarr; 'Bill Brooch' = Bill Broach; 'Brent' = Brett.\n6) Compliance flags: Hegna's fiduciary talk, tax-free death benefit claims, and illustration figures; 'up to 70% more business', '5% = $100B', 'only consumer brand' are promotional claims; the 'real estate' comparison company is unnamed."
+}

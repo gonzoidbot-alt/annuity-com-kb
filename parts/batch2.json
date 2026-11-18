@@ -1,0 +1,1280 @@
+{
+ "videos": [
+  {
+   "video_file": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt",
+   "title_guess": "Carrier Spotlight: Nassau's Athos Annuity (launch event; transcript title says 'Zaghorn's' – likely caption artifact for Nassau)",
+   "summary": "Launch/training event for Nassau Athos, a fixed index annuity (FIA) built by Genesis Development Group (inventors of the index annuity, 1995) and distributed via Elevation, exclusive-ish to Annuity.com among large IMOs. Brett Blake frames the accumulation market opportunity; Steve (Elevation, ex-Annexus original 12) and Chad Onstad (Genesis chief growth officer) with Ryan Whitty explain volatility targeting, par vs cap data from 30+ years of back-casting, and the product's 'extendable point-to-point' design: annual reset that can be extended yearly, par rate rising on each extension and applied retroactively, 90% protected-value stop loss, daily value tracking/full daily value at death, and 'Dial-a-Bonus' blended bonus/non-bonus. Covers service, compliance/replacement rules, carrier rating (AM Best B++), competition vs RILAs, and how agents get support (Talon).",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person",
+     "description": "CEO of Annuity.com; opens the launch, frames accumulation opportunity; says he will personally invest in Athos (in the all-hands video)."
+    },
+    {
+     "name": "Steve (last name not captured)",
+     "type": "person",
+     "description": "Scottsdale AZ; long-time index annuity/life product builder; one of original 12 members of the Annexus group; works through Elevation; co-designer of Athos; ~35 years in industry; once did business with Bill Broach."
+    },
+    {
+     "name": "Chad Onstad",
+     "type": "person",
+     "description": "Chief Growth Officer, Genesis Development Group; product actuary; presenter."
+    },
+    {
+     "name": "Ryan Whitty",
+     "type": "person",
+     "description": "Co-designer/co-presenter, Des Moines; ran one of the largest [unclear: organizations] in America; monitors Q&A."
+    },
+    {
+     "name": "Talon",
+     "type": "person",
+     "description": "Annuity.com's point person for Athos illustrations and product questions; will have email asktalon@annuity.com and be added to cases@annuity.com."
+    },
+    {
+     "name": "Genesis Development Group",
+     "type": "company",
+     "description": "Product-actuary firm that created the original index annuity in 1995; 17 patents issued, ~10 pending (incl. Athos crediting strategy); built volatility index work with MerQube."
+    },
+    {
+     "name": "Nassau Athos (written 'NASA/Ethos/Athos' in captions)",
+     "type": "product",
+     "description": "Proprietary FIA with extendable point-to-point crediting, par and cap versions, bonus and non-bonus, 10-year surrender; issued by Nassau; separate contract from regular Nassau products; approved everywhere except New York and Maine."
+    },
+    {
+     "name": "Nassau (carrier; captions 'NASA')",
+     "type": "company",
+     "description": "Issuing carrier; AM Best B++ per speakers (they argue it runs/reserves like an A-rated company; rating review expected February); 4.9 Trustpilot stars on 10,500+ reviews per presenters; US-based call center, ~22 sec average answer."
+    },
+    {
+     "name": "Elevation",
+     "type": "company",
+     "description": "Steve's company that built Athos as a proprietary product and provided it to Annuity.com."
+    },
+    {
+     "name": "MerQube",
+     "type": "company",
+     "description": "Index calculation partner Genesis built its volatility work with."
+    },
+    {
+     "name": "S&P 500 Dynamic Intraday TCA 15% index [unclear exact name]",
+     "type": "product",
+     "description": "S&P index with 15% volatility target; v2 (2023) allows up to 250% leverage (v1 150%) and rebalances in 30-min increments up to 13x/day; holds only equity index or cash; reportedly in 19 carriers / 116 products."
+    },
+    {
+     "name": "Nasdaq 15% vol-target index",
+     "type": "product",
+     "description": "Alternative Athos index strategy (par 60% starting; rising to 65% on Friday per presenters)."
+    },
+    {
+     "name": "Firelight",
+     "type": "platform",
+     "description": "E-application platform; Athos dial-a-bonus pair of policies submitted together as one underwriting package."
+    },
+    {
+     "name": "SureLC / LIMRA",
+     "type": "platform",
+     "description": "Contracting platform / product training; Athos agents need Annuity.com's own SureLC link."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "Option budget",
+     "definition": "The amount a carrier can spend on index options for the client (e.g. ~4%), funded by the yield on the bond portfolio backing the contract; carriers control it but not option prices.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Par (participation) rate",
+     "definition": "Percentage of index gain credited to the client; set by option budget ÷ option price. Doubling option cost halves par; presenters say it should move inversely to option cost.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Cap rate",
+     "definition": "Maximum index return credited per period. Presenters claim par beats cap ~80% of time historically.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Volatility target (vol control)",
+     "definition": "Index overlay that flattens option cost so renewal rates stay stable; ~15% target ≈ average S&P realized volatility, delivering ~100% of the index on average; a 5% target yields only ~1/3 of the market.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Extendable point-to-point",
+     "definition": "Athos's patent-pending design: annual point-to-point that, on anniversary (+15 days), client can reset (lock gains) or extend another year; each extension raises par rate and applies it retroactively to all gains in the term.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Protected value / 10% stop loss",
+     "definition": "On each extension 90% of the daily account value becomes a floor that can't be lost; principal itself never at risk.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Daily value tracking",
+     "definition": "Client can see value daily; full daily value (not last anniversary value) paid at death; surrender at daily value within 15 days after anniversary.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Dial-a-Bonus",
+     "definition": "Splits a premium between bonus and non-bonus Athos policies so only the bonus needed to cover surrender-charge breakeven is used, leaving higher blended par (example: 45% par bonus-only vs 58% blended).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Point-to-point 'Monopoly' analogy",
+     "definition": "If client dies before the credit date, the gain for that year is zero — like not passing Go.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Death by a thousand cuts",
+     "definition": "Presenters' term for carriers starting with a subsidized high cap then cutting at renewal.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "RILA",
+     "definition": "Registered index-linked annuity; buffer strategies put principal at risk; presenters position Athos as RILA-like upside with 100% principal protection.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "term": "Auto-extend",
+     "definition": "Checkbox on the application so extension happens automatically each anniversary; can be undone at any anniversary; recommended by Steve.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "Annuity.com CEO: estimated ~$49 trillion in retirement income money, some estimates $400T in a decade; accumulation opportunity ~10x the guaranteed income opportunity; $2–4T re-homed yearly from IRAs/401(k)s, ~54% seeking guaranteed income.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Genesis: created original index annuity in 1995; 17 patents, ~10 pending; tracking 32 years of back-test data.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Back-casting claims: par outperforms cap ~80% of time; 2-year par beats 1-year par 84% (90% dynamic); 1-year cap vs 2-year par: cap loses 90–92.5%; S&P positive 78% of last 50 years, 77 of 78 double-digit [as stated].",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Vol-target index: last 10 years lagged S&P by 23 bps, captured ~98% of S&P par rate and ~80% of Nasdaq par; 20-yr average 'S&P 103% vs vol index ~120%'; v2 index added ~16% extra over time vs v1 (presenter claim).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Illustration: $100k annual reset → 269 vs extendable 371 (25–40% more efficient); 7-yr hypothetical with 90% protected value 263 vs daily value 292 / 254 after crash.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Par rates started at 70% (S&P TCA) and 60% (Nasdaq); Friday rate increase announced: Nasdaq to 65%, TCA to 75%.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Cap version starts ~9% (back-test high 17.75%); bonus cap version peak 12.25%; cap does not apply retroactively.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Early renewal data: 19% of extended policies renewed at 52–59% par; 81% at 60–61% from 48% start with 12% bonus; cap policies renewed 5%→7.75% (55% increase).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Dial-a-bonus example: $500k, 16% bonus → blended 8% effective bonus; par 45%→58%; 10-yr value 133k→153k per illustration.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "10-year surrender, 7% free withdrawal after year 1; no fees or spreads; par version has no cap (a separate cap version exists); approved everywhere but NY and ME.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Compliance: replacement of contracts 2+ years old approved in 24–48 hours if bonus makes client breakeven or better; liquidity: 6 months if age ≤64, 12 months if 65+; VAs 1 year+ often OK.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Premium range: $15,000 minimum, $2.5M max (up to $5M with a call).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Agent street comp: 100 bps special from now through end of November (as stated).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Service: 22-second average phone answer, US call center, 4.9 Trustpilot (10,500+ reviews); presenters cite competitors 1.3–2.2 on Trustpilot.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Athos exclusive-ish: not available via Simplicity, Integrity (or their shops); built 'for truly independent' agents; Annuity.com agents appointed via Annuity.com SureLC, not ECA.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "Athos has highest apps per producer among Nassau platform products (presenter claim); goal: 3 cases to 'click'.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "claim": "1-year TCA return cited as underperforming S&P due to choppy tariff/Iran-conflict market (presenter's explanation).",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Sell it as an annual reset",
+     "detail": "Plain-English pitch: 'It's an annual reset. At year-end we can take the gains or reinvest the gains for more rate; you decide by anniversary + 15 days.'",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Use only as much bonus as needed",
+     "detail": "Bonuses come out of the option budget; dial bonus to breakeven on surrender charges rather than as incentive; 20% bonus on 4% budget over 10 years ≈ halves option budget.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Death-benefit conversation",
+     "detail": "Point-to-point pays zero on death before credit date (364/365 chance); explain the 'artificially inflated cap' concept and why daily value at death matters.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Compete against RILAs",
+     "detail": "RILA buffers risk principal near retirement (sequence risk); Athos offers RILA-like upside with 100% principal protection.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Position vs 4% rule",
+     "detail": "Protected value reduces sequence-of-return risk; presenters see 4–5% withdrawals as comfortable.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Set auto-extend",
+     "detail": "Check box at application; easier to unwind at a good anniversary than to resell each year.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Bucket allocation",
+     "detail": "Up to two buckets per index; extend/reset buckets independently; switching index resets to base par; avoid fixed account in an FIA.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Replacement targets",
+     "detail": "Target 2+-year-old bonus contracts, VAs, income riders ('fake money').",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "teaching": "Explain vol control honestly",
+     "detail": "Heartburn came from low 5% targets, bond exposure, and bespoke multi-asset algorithms; Athos uses plain S&P/Nasdaq or cash.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "The guys that invented annual reset and the name annual reset are right here.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "We didn't build a new index. We built a better way to squeeze the juice out of the return.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "It's not where we start. It is where we finish.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "If I give you a bonus, it's not free money, it's coming out of the option budget that they could have otherwise given to you.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "Just cuz they say it's guaranteed doesn't mean that it's guaranteed. ... You got to read the contract.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "We give you RILA-like performance now with 100% principal protection.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "The goal is three cases... First one, you're kind of excited... the second one, you're like, okay, what did I do? And the third one, click.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "I think that the opportunity for agents to participate in accumulation is 10 times larger than the opportunity that we have with guaranteed income.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    },
+    {
+     "quote": "We built this to be for the truly independent people.",
+     "source_video": "BmoT342krzM_Carrier Spotlight- Zaghorn’s Athos Annuity.en.txt"
+    }
+   ],
+   "topics": [
+    "Athos",
+    "fixed index annuities",
+    "volatility targeting",
+    "par vs cap",
+    "extendable point-to-point",
+    "dial-a-bonus",
+    "accumulation market",
+    "RILA competition",
+    "carrier ratings",
+    "compliance/replacements",
+    "Genesis",
+    "Elevation",
+    "Annuity.com exclusivity"
+   ]
+  },
+  {
+   "video_file": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt",
+   "title_guess": "The Agent Opportunity – Spring 2026 (Annuity.com recruiting/onboarding call with CEO Brett Blake)",
+   "summary": "Recruiting presentation by CEO Brett Blake, hosted by Amy Rushworth (agent experience manager). Pitches Annuity.com as an agent-first IMO: 100% street commission, release letter before first case, 'Cap the Company' annual bonus after $5M, Agency Builder residual overrides up to seven levels, stock grants, 60+ carriers/2,400+ products, team-selling path for new/Medicare agents (20% per stage), lead pathways (Financial Guys, seminars, Medicare partnering, domain/AI visibility, Lead Pro), free base enrollment vs $199/mo Lead Pro bundle, onboarding via Agent HQ.",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person",
+     "description": "CEO since January 2024; led acquisition of Annuity.com; Harvard MBA, four business books; Phoenix area; presenter."
+    },
+    {
+     "name": "Amy Rushworth",
+     "type": "person",
+     "description": "Agent experience manager at Annuity.com; host."
+    },
+    {
+     "name": "Roy Snarr",
+     "type": "person",
+     "description": "Top Annuity.com producer; co-creator of seminar program; quoted: 'agent first company worth billions'; hosts Annuity Producers call [name spelling variable in captions]."
+    },
+    {
+     "name": "Bill Roach/Broach",
+     "type": "person",
+     "description": "Seminar program co-creator with Roy Snarr (spelling varies)."
+    },
+    {
+     "name": "Tom Hegna",
+     "type": "person",
+     "description": "On Annuity.com's board; on-demand content library and PBS specials included in Lead Pro."
+    },
+    {
+     "name": "Annuity.com",
+     "type": "company",
+     "description": "Independent marketing organization (IMO) that owns the industry domain; 800+ agents; 60+ carriers."
+    },
+    {
+     "name": "Lead Pro",
+     "type": "product",
+     "description": "$199/mo marketing bundle (valued $500–700/mo): GoHighLevel CRM, bi-weekly done-for-you newsletters, annuity.com subdomain with calculators/MYGA rates/videos, business phone line, national directory listing, Tom Hegna on demand."
+    },
+    {
+     "name": "Agent HQ",
+     "type": "platform",
+     "description": "Agent portal with training, new-agent launch videos, tools."
+    },
+    {
+     "name": "Financial Guys",
+     "type": "company",
+     "description": "Qualified-lead partner in beta testing for Annuity.com agents."
+    },
+    {
+     "name": "Simplicity / Integrity / AmeriLife",
+     "type": "company",
+     "description": "Large IMO consolidators cited as acquirers of small IMOs whose owners cashed out."
+    },
+    {
+     "name": "Support",
+     "type": "platform",
+     "description": "support@annuity.com; joinannuity.com/live for events."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "100% street commission",
+     "definition": "Annuity.com pays agents the full commission carriers intended; described as non-negotiable and no split with the IMO.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "term": "Cap the Company",
+     "definition": "Annual bonus program: over first $5M production the company shares overrides as incentives (team building, stock); above $5M the company's earnings on that agent are capped and all company dollars pass through to the agent.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "term": "Agency Builder program",
+     "definition": "Residual override program: 50% of company overrides fund overrides on recruited agents' production up to seven levels deep, as long as both remain with Annuity.com.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "term": "Pre-release letter",
+     "definition": "Letter given before first case allowing agent to leave and write elsewhere; few use it.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "term": "Team selling path",
+     "definition": "New agent pairs with experienced agent; commission split 20% each for appointment setting, fact finding, case design, presentation, close; experienced agent may earn up to 80%.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "term": "Stock program",
+     "definition": "Annual stock grants by production milestone: $1,000 at $1M, $4,000 at $3M, $10,000 at $5M (up to $15,000/yr).",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "Industry sold >$460B annuities last year; >100% growth since 2020; market described as multi-trillion.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Example: $10M producer earned $250,000 at a prior IMO, missing hundreds of thousands.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "60+ carriers, 2,400+ products; 800+ agents.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Stock valued by third party; grew 3.7x (370%) in under 18 months (Nov 2025–Feb 2026 valuations).",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Stock grants: $1k @ $1M, $4k @ $3M, $10k @ $5M production; up to $15,000 per year.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Seminars average cost under $4,000 (~$3,500) and average nearly $500,000 annuity sales.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Lead Pro $199/month; bundle value $500–700/month; $100k premium alone could pay for years of Lead Pro.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Free enrollment includes carrier contracts, community, free joinannuity.com site.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "40–50 million-dollar producers on platform; company aspires to go public.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "claim": "Agents get leads weekly across network; domain annuity.com recognized by AI (no lead promise).",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Recruiting pitch: agent as executive",
+     "detail": "Commission-only = 'what have you done for me lately'; Annuity.com positions agents like executives with equity and retirement.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "teaching": "Pain points to open conversation",
+     "detail": "Release trapped by IMO, no retirement/equity, IMO owners sold and left agents with bureaucracy, hidden IMO override pocketing.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "teaching": "Try-before-you-commit",
+     "detail": "Free enrollment + move one carrier's contracts; pre-release letter lowers risk.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "teaching": "Rockefeller philosophy",
+     "detail": "'Rather earn 1% off 100 people's efforts than 100% of my own' – framing for Agency Builder.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "teaching": "Math-based close",
+     "detail": "Offer to run individual comp math; follow-up meeting after call covers compensation.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "We're in one of the golden eras of annuities, if not the golden era of annuity.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "Agents are independent, but they're really not free.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "They're not here to serve us. It's your business and we want to be able to support you in that.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "We're not going to take money out of their pockets to line our pockets.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "I'd rather earn 1% off 100 people's efforts than 100% of my own efforts.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "That's the ultimate sign of wealth when you aren't working but your business is growing and producing revenue for you.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "We don't do back room deals. We have a very transparent program.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    },
+    {
+     "quote": "This brand works for you even when you're not working.",
+     "source_video": "HoNsfbpz91o_The Agent Opportunity- Spring 2026.en.txt"
+    }
+   ],
+   "topics": [
+    "recruiting",
+    "IMO compensation",
+    "100% street",
+    "Cap the Company",
+    "Agency Builder",
+    "stock ownership",
+    "team selling",
+    "lead sources",
+    "Lead Pro",
+    "Agent HQ",
+    "onboarding"
+   ]
+  },
+  {
+   "video_file": "KM23-bEW2cs_RAMP- Fall 2026.en.txt",
+   "title_guess": "RAMP – Fall 2026 (Reducing Annual Medicare Penalties: referral-first training for Medicare agents)",
+   "summary": "Brett Blake's training for Medicare agents on RAMP: goal of earning $1,000 in first 30–45 days by referring one trusted client to a retirement income specialist, using a simple script. Explains the 20% appointment-setting commission share (e.g., $1,500 on a $150k case at 5% commission), optional progression to fact finding/case design/presentation/app, licensing and suitability requirements, 100% street pay, agency-builder referrals, stock, and the macro rationale (11,200 retire daily; only ~100k annuity-selling agents; 4x more Medicare agents). Includes a testimonial from Kathleen (Colorado Springs) and Q&A on commissions.annuity.com, agent.annuity.com and Agent IQ AI.",
+   "entities": [
+    {
+     "name": "Brett Blake",
+     "type": "person",
+     "description": "CEO; presenter."
+    },
+    {
+     "name": "Kathleen (Colorado Springs)",
+     "type": "person",
+     "description": "Medicare agent testimonial; used script, specialist Al closed $200k sale; more families ($600k, $200k) pending."
+    },
+    {
+     "name": "Al / Clay",
+     "type": "person",
+     "description": "Annuity specialists referenced in examples/Q&A."
+    },
+    {
+     "name": "RAMP",
+     "type": "product",
+     "description": "Reducing Annual Medicare Penalties program; referral pathway for Medicare agents to annuity specialists."
+    },
+    {
+     "name": "Agent IQ",
+     "type": "platform",
+     "description": "AI engine on agent.annuity.com to answer agent questions."
+    },
+    {
+     "name": "agent.annuity.com / commission(s).annuity.com",
+     "type": "platform",
+     "description": "Back-office portal (registration) and commission view where agents see their organization/team; support@annuity.com and 800 number also available."
+    },
+    {
+     "name": "Pacific Guardian",
+     "type": "company",
+     "description": "Carrier example used by Brett for quick appointment/app timeline."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "RAMP",
+     "definition": "Reducing Annual Medicare Penalties – referral program; now tied to a goal of $1,000 in the first 30–45 days.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "term": "IRMAA (captions 'Irma')",
+     "definition": "Income-related Medicare premium surcharge; RMDs from IRAs/401(k)s can trigger higher premiums; RAMP script not limited to IRMAA clients.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "term": "Retirement income specialist",
+     "definition": "Annuity specialist who handles fact finding, case design, best interest/suitability, review, presentation, paperwork while Medicare agent observes.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "term": "Defined contribution shift",
+     "definition": "US moved from pension+Social Security to 401(k)/IRA savings, leaving retirees fearful of spending.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "Goal: earn $1,000+ in first 30–45 days; cost to agent is zero.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Average case ~ $150,000 annuity; commissions 2–7%; 70% of cases pay ~7% [as stated; 'seven 70 or 7%' caption unclear]; at 5%, carrier pays $7,500; 20% share = $1,500.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Commission split: 20% each stage (appointment, fact finding, case design, presentation, app/funding); agents can take up to 100%.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Company never makes more than ~$50,000/yr per agent under the cap program.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Requirements: life license; annuity suitability training (4 hours most states, 8 in California); can be done just-in-time; free AI-based license prep tool on website.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "11,200 people retire daily in US; ~100,000 people know how to sell annuities (declining); 4x more Medicare agents than annuity agents; fewer than 10% own guaranteed-income annuities.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Over 80% of Americans die with their lump sum intact; income plans: portfolios do ~30% better on average, less stress, longer life (claims as stated, no source cited).",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Medicare context: commissions cut, competition up, renewals at risk.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Kathleen testimonial: one script use → $200k sale; two further families $600k and $200k scheduled.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Training takes no 12-hour classroom; no tool/join fees.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "claim": "Annuity.com pays 50% of what it makes into the agency-builder program; does not take money from agents to pay others.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Start with ONE trusted client",
+     "detail": "No big list, no calculators, no cold calls, no RMD/IRMAA screening; IRA/401(k)/savings retirees ideal.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "teaching": "Referral script",
+     "detail": "'I'm seeing many of my clients' premiums increase as they age because they haven't given enough thought to how they receive retirement income... I've brought in a retirement income specialist... free service... would you like to schedule time with her?'",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "teaching": "Warm three-way intro",
+     "detail": "If not confident, call with sponsor/specialist on the line, introduce, then hand over.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "teaching": "Goal is confidence not just a sale",
+     "detail": "Clients with pensions may not need an annuity yet still benefit.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "teaching": "Open enrollment play",
+     "detail": "Say at end of Medicare call you'll review their case and call back; schedule 10-minute follow-up to connect with specialist; can double income during AEP.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "teaching": "Progressive ownership of case",
+     "detail": "Start with 20% appointment-setting; add steps as comfortable; specialists hop in anytime.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "It takes one client who you're able to help. And the cost to do that is zero to you.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "You observe, you learn, and you earn.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "The goal is to bring confidence to your clients, not necessarily just to sell an annuity, but we hope we sell an annuity on the way.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "We pay 100% of our street commission to our agents. There's no funny money here.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "Is that worth a phone call?",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "It just requires having the courage to make the phone call.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "We have an epidemic of fear when it comes to retirement finances.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    },
+    {
+     "quote": "Pick up the phone and dial one client who trusts you.",
+     "source_video": "KM23-bEW2cs_RAMP- Fall 2026.en.txt"
+    }
+   ],
+   "topics": [
+    "RAMP",
+    "Medicare agents",
+    "referral script",
+    "20% appointment share",
+    "IRMAA",
+    "retirement income planning",
+    "open enrollment",
+    "licensing and suitability",
+    "Agent IQ",
+    "agent portals"
+   ]
+  },
+  {
+   "video_file": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt",
+   "title_guess": "ALL HANDS + The Closing Room with CEO Brett Blake (guest: Bill Broach) – ~Oct 2026",
+   "summary": "Monthly all-hands: recognition (Sept top sponsors, top producers, stock awards, first-time producers), Closing Room training from Bill Broach (mentor/former Annuity.com owner) on relationship selling tips, then Brett's company updates: Social Security Advisors partnership (Matthew Allen), new Guaranteed Income Comparison chart, accumulation push (Nassau Athos, Malibu Life/Legacy Marketing Group PillarMark & SpireMark), updated RAMP script (retirement income review), new Agent HQ look, profile/SEO optimization, cases@annuity.com multi-bid email, weekly event calendar, Fast for Food program, and Athos Q&A.",
+   "entities": [
+    {
+     "name": "Bill Broach (also spelled Roach/Broich)",
+     "type": "person",
+     "description": "Former owner of Annuity.com (sold to Brett's group in 2024 with David and Phyllis); master mentor and lead-generation innovator; first agent to sell $100M (his claim); email in chat bbroich/bproach@msn.com [spelling inconsistent]."
+    },
+    {
+     "name": "Brett Blake",
+     "type": "person",
+     "description": "CEO; hosts all-hands."
+    },
+    {
+     "name": "Social Security Advisors (SSSA)",
+     "type": "company",
+     "description": "New partner; staff were ex-Social Security Administration employees (15+ years); free first consultation for agents' clients; CEO Matthew Allen; co-branded content on annuity.com."
+    },
+    {
+     "name": "Matthew Allen",
+     "type": "person",
+     "description": "CEO of Social Security Advisors; live training next day 10am PT; December IRMAA update training."
+    },
+    {
+     "name": "Malibu Life / Legacy Marketing Group",
+     "type": "company",
+     "description": "Launching PillarMark and SpireMark fixed index annuities to be exclusive-ish to Annuity.com among big IMOs."
+    },
+    {
+     "name": "Austin Openshaw",
+     "type": "person",
+     "description": "Sales tools expert; runs weekly tech call on Lead Pro, CRM, Agent IQ, Agent HQ, Core."
+    },
+    {
+     "name": "Tom Hegna",
+     "type": "person",
+     "description": "Leads Closing Room next 2 weeks, then John Stevenson."
+    },
+    {
+     "name": "Roy Snarr",
+     "type": "person",
+     "description": "Top producer; Thursday Annuity Producers call host; $5,000 stock this year."
+    },
+    {
+     "name": "Top sponsors Sept",
+     "type": "person_group",
+     "description": "David Dustan (6 new agents), Barry Goldwater (3), Kevin Jensen (tied second)."
+    },
+    {
+     "name": "Fast for Food",
+     "type": "program",
+     "description": "Charity program: fast two meals monthly, donate equivalent locally; 18 agents signed up, goal 100; founding tied to Bill and Gina and Kevin Jensen."
+    },
+    {
+     "name": "Agent HQ / Agent IQ / Core / Lead Pro",
+     "type": "platform",
+     "description": "Annuity.com agent platform components."
+    },
+    {
+     "name": "cases@annuity.com / athos@annuity.com",
+     "type": "platform",
+     "description": "Email routes sending cases to multiple partners for product bids."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "Relationship vs transactional selling",
+     "definition": "Relationship sellers get clients, referrals and a career; transactional sellers are order takers dependent on daily leads.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Lead stare",
+     "definition": "Bill's term for agents staring at lead lists on Monday with no idea whom to call; cure is running business from a database.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Grow, harvest, replant",
+     "definition": "Database system: monthly informational drip, respond to downloads, ask for names.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Take the new client's temperature",
+     "definition": "Call 2–3 days after the sale with a pretext (verify birthday/address) to shore up buyer's remorse.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Double dipper",
+     "definition": "Securities-licensed advisor who charges AUM fee and outsources to a manager/mutual funds that charge again.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Third-party influencer",
+     "definition": "Neutral source (FINRA mutual fund analyzer, printed report) so the truth isn't coming from you.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Would it be a bother / fetch",
+     "definition": "Permission-asking language for requesting documents and appointments.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "No clawback",
+     "definition": "Tax deferral is never taken back; taxes eventually paid with inflated (cheaper) dollars; 'interest on interest on taxes deferred'.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Be a barber",
+     "definition": "After a no, say 'Next' – don't dwell; never call back 'think about it' prospects.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Retirement income review",
+     "definition": "RAMP appointment: ~15–20 minute first meeting, results a week later; mostly listening and fact finding.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "MYGA compounding",
+     "definition": "Insurer-quoted MYGA rates already include annual compounding (year-end value).",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "term": "Guaranteed Income Comparison chart",
+     "definition": "Agent HQ tool (Agent HQ > Tools) comparing products/years for income rider triggers; PDF output.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "Sept 2026 top producers: John Stevenson just over $2M; Roy Snarr ~$1.6M; Steve Dibwad ~$1M+; Dr. Amanda Barrientos $465k; Jennifer Cunningham $250k; Garrett $235k; Tim Davis $234k; John Egan $216k; AJ Torres $205k; Christie Dunn $150k.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Most policies: Roy Snarr 15, John Stevenson, Brian Beavers 8.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Stock awards: Steve Dibwad and Jennifer Cunningham $1,000 (hit $1M); Roy Snarr $5,000 total (hit $3M); AJ $5,000; four first-time producers.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Guaranteed income market ~ $2.3T opportunity; >$25T in mutual funds, expected $100T in a decade.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Athos: not yet appointed at time; LIMRA training link sent; SureLC link coming; not available through ECA; 15 days after year 1 to roll into 2-year point-to-point; locks in 90% of year-1 gain; participation increases retroactively (~4%+ more, per Brett); year 5–7 participation can exceed 100%; Brett will invest personal funds.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Athos described as first product allowing daily index tracking and daily credit at death; claims FIA index returns were dragged by bond components.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Malibu Life/Legacy: PillarMark and SpireMark launching; training to be scheduled.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Bill: 91% of prospects Google you (attributed to Amazon [sic]); target market ≤$400k assets; appointment-setting caller ratio ~85% of list; each 1,000 database names → 70–110 replies, ~20 good phone responses, ~2 sales/month (Roy Snarr's records); ~75% of Bill's production came from grow/harvest/replant; best selling months Jan/Apr/Jul/Oct; average senior dental ~ $8,000/yr.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Bill sold SP10 ST (Great American): any-time conversion to lifetime income; 3% minimum guaranteed interest.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Agents getting leads: multiple agents weekly, most about monthly; brettblake.annuity.com ranks first for 'Brett Blake annuity'; profile updates in Agent HQ optimize find-an-agent and personal site via AI; Google favors local agents.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Weekly schedule: Tue Closing Room 11am PT (+ RAMP 5pm), Wed intro to Annuity.com 8am & 'Maximize your compensation' with Bruce, Thu Annuity Producers call (Roy Snarr) + RAMP 2pm, Fri RAMP + tech call; every third Tuesday All Hands (5 min recognition, 40 min training, 15 min updates).",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "claim": "Reverse mortgage funds can't be used to buy annuities (Bill: illegal).",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Google yourself / internet presence",
+     "detail": "Prospects will search you; keep profile current.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Pick a target market",
+     "detail": "Bill: ≤$400k assets, daytime appointments, no advisors in tow; avoid whales requiring CPA/attorney permission.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "End calls with their first name",
+     "detail": "'Goodbye, Brett' personalizes.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Reference list instead of business card",
+     "detail": "10 people, cream paper, permission obtained; bulky so kept.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Handwritten notes",
+     "detail": "Post office stamp, personal, sign first name only.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Two key questions",
+     "detail": "'While I'm here, any questions?' and 'What's the purpose of this IRA and what do you want it to accomplish?' – then be quiet.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Bridge to close",
+     "detail": "'Wow, this can be a little confusing, can't it? Would you like me to put this in a simple report?' Sale is made in fact finder; close lasts 4–6 min.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Don't call back 'think about it'",
+     "detail": "Keep control; be a barber – next.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Use FINRA analyzer",
+     "detail": "Print fee/expense report as third-party influencer; show double-dip fees (1.5% + 1% = 2.5% example).",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Use American Equity-style chart",
+     "detail": "Simple chart explaining FIA mechanics.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Check old life policies & loans",
+     "detail": "Become agent of record; offer to ask carrier for loan forgiveness.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Ask why they bought each product, be silent",
+     "detail": "Reveals knowledge level.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Dental expense hook",
+     "detail": "Unbudgeted $8k/yr topic builds rapport.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Best selling months",
+     "detail": "Jan/Apr/Jul/Oct when AUM fees appear on statements.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Medicare agent RAMP script (updated)",
+     "detail": "'Now we need to schedule a retirement income review to avoid unnecessary Medicare premium increases. Would daytime or evening work better for you, [name]?'",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "teaching": "Use AI with multiple bids",
+     "detail": "Send cases to cases@annuity.com, feed responses to AI to prep presentations.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "Agents are independent, but they're really not free.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "I'd rather ... be a barber ... It's next. Who's next in line to see me?",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "The sale is always made in the fact finder. It's not made in the close.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "Wow, this can be a little confusing, can't it?",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "It's not the product, it's what the product provides.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "Silence is golden here. You can't answer, and you can't talk. They have to talk because that answer is almost always a feeling answer.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "There's no clawback on tax deferral.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "We don't have any pride in authorship. We only have pride in our community.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "Google prioritizes local agents over national agents.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    },
+    {
+     "quote": "The little things are the big things.",
+     "source_video": "QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with CEO, Brett Blake.en.txt"
+    }
+   ],
+   "topics": [
+    "all-hands",
+    "recognition",
+    "stock awards",
+    "relationship selling",
+    "fact finding",
+    "third-party influence",
+    "FINRA",
+    "Social Security Advisors",
+    "Athos",
+    "Malibu Life",
+    "RAMP script",
+    "Agent HQ",
+    "profile SEO",
+    "cases@annuity.com",
+    "weekly schedule",
+    "Fast for Food"
+   ]
+  },
+  {
+   "video_file": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt",
+   "title_guess": "CORE & AgentPay Live Walkthrough (beta launch, ~late June/early July 2026)",
+   "summary": "Live demo by Bruce (Annuity.com leadership) with developer Alan of CORE (Carriers, Opportunities, Resources, Earnings), the new custom-built agent dashboard at commission.annuity.com, and AgentPay/e-wallet (via TygaPay [spelling unclear]) with a tax-saving marketing wallet. Covers dashboard (production, company-dollar progress toward $1M/$3M/$5M, FLP counts for team levels), orders/cases, downline, customers, earnings drill-down, chargebacks, e-wallet setup and $1.50 withdrawal fee, beta feedback buttons, and Q&A on support threads, visibility, anniversary dates, and real-time vs final numbers. Brett closes with the strategy.",
+   "entities": [
+    {
+     "name": "CORE",
+     "type": "product",
+     "description": "Carriers, Opportunities, Resources, Earnings – custom-built agent dashboard/system at commission.annuity.com (beta); free to all agents (no Lead Pro needed); single sign-on across systems."
+    },
+    {
+     "name": "AgentPay / e-wallet",
+     "type": "product",
+     "description": "Bank-account wallet auto-created at first commission; deposits commissions; supports withdrawals/auto-withdraw; marketing wallet; powered by TygaPay [unclear spelling], replacing Mercury."
+    },
+    {
+     "name": "TygaPay [unclear]",
+     "type": "company",
+     "description": "Banking partner for e-wallet; validation email comes from it."
+    },
+    {
+     "name": "Bruce",
+     "type": "person",
+     "description": "Annuity.com executive presenting; ran prior failed $4M system build years ago; also hosts 'Maximize your compensation'."
+    },
+    {
+     "name": "Alan",
+     "type": "person",
+     "description": "Lead developer of CORE; credited with small team success."
+    },
+    {
+     "name": "Leia and Christine",
+     "type": "person",
+     "description": "Staff coordinating agent alerts/support; Leia produced Loom video on case management."
+    },
+    {
+     "name": "Bill (downline leader)",
+     "type": "person",
+     "description": "Agent with large downline who asked for visibility."
+    },
+    {
+     "name": "Kevin / Dr. Amanda / Gina / Brian Beaver",
+     "type": "person",
+     "description": "Agents asking Q&A; Dr. Amanda has capped twice."
+    },
+    {
+     "name": "Firelight",
+     "type": "platform",
+     "description": "E-app platform linked directly; orders enter CORE automatically."
+    },
+    {
+     "name": "Lead Pro / Agent IQ",
+     "type": "product",
+     "description": "Future integrations with CORE."
+    },
+    {
+     "name": "Rebel 1 [unclear name]",
+     "type": "company",
+     "description": "Carrier example that charges back first-year distributions."
+    },
+    {
+     "name": "Marketing wallet",
+     "type": "product",
+     "description": "AgentPay sub-wallet for approved business purchases (Financial Guys leads, Lead Pro, perhaps Roy's Annuity Producers event)."
+    }
+   ],
+   "terms_definitions": [
+    {
+     "term": "CORE",
+     "definition": "Carriers, Opportunities, Resources, Earnings – 'core to everything we do'.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "FLP",
+     "definition": "Frontline producer; 5 FLPs unlock producer-share levels (e.g., Prime Agency tier).",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Sponsor share vs producer share levels",
+     "definition": "Compensation levels shown locked/unlocked; sponsor share unlocked; producer share requires 5 FLPs.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "E-wallet",
+     "definition": "Real bank account created at first commission; agent completes registration.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Marketing wallet",
+     "definition": "Prepaid marketing credits sub-account reducing 1099 income, usable only for approved business purchases.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Cap month / cap calculation",
+     "definition": "Month agent hits $5M; orders pushing over cap are calculated and visible.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Anniversary date",
+     "definition": "Agent's production year tracked by day (e.g., Jan 9–Jan 8) – new capability.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Projection vs actual bars",
+     "definition": "Bars turn solid green when month's commissions are actual (e.g., June actual ~July 15).",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "term": "Beta site banner",
+     "definition": "Report button routes: Support→support team; Request Feature; Report Bug→dev team.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    }
+   ],
+   "claims_stats": [
+    {
+     "claim": "CORE is live (beta) with real imported orders; imports may show discrepancies; real-time updates but numbers finalize after month close.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Log in at commission.annuity.com (singular); login seamless across systems.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Dashboard shows personal production and company-dollar progress toward $1M/$3M/$5M; recent orders, paid/in-good-order status; FLP progress to next tier; downline hierarchy; customer list.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Earnings drill-down: month → bonus category → agent → policies/carriers; no customer data shown to other agents.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Orders entered through Firelight flow in automatically; others are found from carrier and entered by Annuity.com operations.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Built-in support email per order; threads reply-all and integrate with system; same view for internal team.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "E-wallet: commission payments via AgentPay start first Monday after July 4; replaces Mercury; all agents must register new banking; auto-withdraw option.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Each transfer to bank costs $1.50 (ACH).",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Marketing wallet example: $10,000 commission, move $2,000 → 1099 shows $8,000; funds restricted to approved marketing expenses; Brett frames it as buying marketing credits.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Chargebacks show in red and draw down future street commission/overrides; Rebel 1 charges back first-year distributions.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Premium additions treated as new policy on addition date.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Prior attempt (as president of another company) cost >$4M, nine developers, almost a year, never launched; current team smaller and custom.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Previously third-party tools meant slow bids/turnaround; custom development enables fast iteration.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "claim": "Plans: maturity alerts for MYGAs, aggregated carrier commission visibility, integration with Lead Pro and Agent IQ; LOA (letter of authorization) structure under consideration.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    }
+   ],
+   "sales_teachings": [
+    {
+     "teaching": "Technology as accelerator",
+     "detail": "'Technology doesn't build a business, it accelerates it'; race car analogy (Bondurant).",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "teaching": "Use the dashboard to manage compensation",
+     "detail": "FLP and cap progress guide recruiting and production goals.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "teaching": "Marketing wallet for tax planning",
+     "detail": "Prepay approved marketing to manage 1099 – verify IRS legitimacy, not general funds.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "teaching": "Watch finalized numbers",
+     "detail": "Real-time may shift if cases rescind or fund next month.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "teaching": "Report issues with right button",
+     "detail": "Support/feature/bug route to correct team.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    }
+   ],
+   "notable_quotes": [
+    {
+     "quote": "It doesn't do your job. It gets everything that isn't your job out of the way.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "Technology is not a business builder, it's a business accelerator.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "It's live, but not perfect.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "Our job here is not to replace you. It is to simply take the least fun parts of what you do, and make it a lot easier.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "Imagine everybody's in a Dodge Charger and you're in a Pinto.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "We don't want a situation where unscrupulous agents might be trying to steal customers from other agents.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "Our goal is to offer the best support, not necessarily the most efficient support.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    },
+    {
+     "quote": "This is like having their own business banking account.",
+     "source_video": "U4xWC9h9YC8_CORE & AgentPay Live Walkthrough.en.txt"
+    }
+   ],
+   "topics": [
+    "CORE",
+    "AgentPay",
+    "e-wallet",
+    "marketing wallet",
+    "commissions",
+    "dashboard",
+    "downline/FLP",
+    "chargebacks",
+    "beta feedback",
+    "Firelight",
+    "support workflow",
+    "technology philosophy"
+   ]
+  }
+ ],
+ "synthesis": "PLATFORM (company facts): Annuity.com's tech stack across these videos: Agent HQ (portal; new left-nav, mobile/tablet friendly, profile feeds AI-optimized 'find an agent' and personal annuity.com subdomain sites), Agent IQ (AI engine at agent.annuity.com; AI case-planning upgrade coming), CORE (commission.annuity.com beta: dashboard of production, company-dollar progress to $1M/$3M/$5M stock tiers and $5M cap, FLP-based team tiers, orders/cases with embedded support email, downline, earnings drill-down, chargebacks, anniversary-day tracking; real-time but finalize after month close; free to all agents; Firelight orders flow automatically), AgentPay (e-wallet with TygaPay [unclear] replacing Mercury; $1.50 per bank transfer; marketing wallet reduces 1099 via prepaid approved marketing spend), Lead Pro ($199/mo CRM/newsletter/subdomain/phone/directory/Hegna bundle), cases@annuity.com and athos@annuity.com multi-bid email, Guaranteed Income Comparison chart, weekly tech call (Austin Openshaw), SureLC link for Annuity.com. RAMP: began as Reducing Annual Medicare Penalties; Fall 2026 goal $1,000 in 30–45 days via a single referral to a retirement income specialist; 20% appointment share (e.g. $1,500 on $150k case at 5%); later evolved to a 'retirement income review' script with a 15–20 min first meeting and a results meeting a week later. COMPENSATION: 100% street, Cap the Company over $5M, Agency Builder up to 7 levels funded by 50% of overrides, stock ($1k/$4k/$10k at $1M/$3M/$5M), pre-release letter, team selling 20% splits. Narrative: agent-first, ownership, transparency, technology reducing admin, truly independent (exclusive products not available to Simplicity/Integrity/AmeriLife groups). EDUCATIONAL: Athos (extendable point-to-point, par>cap data, vol control, dial-a-bonus) is a carrier/product training; Bill Broach's tips (fact-finder-centered selling, third-party influence, barber mindset, permission language) and RAMP referral scripts are sales education. CAUTIONS: many performance figures are presenters' back-tests/claims, not verified; caption artifacts: Athos/Ethos/NASA = Nassau Athos, Irma = IRMAA, TygaPay and Rebel 1 spellings unclear, Bill's surname varies (Broach/Roach/Broich), Steve's surname not captured. Dates: CORE ~early July 2026; Spring 2026 call predates RAMP Fall 2026; all-hands ~Oct 2026 (Athos launched 'last week')."
+}

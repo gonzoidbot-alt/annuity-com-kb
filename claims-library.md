@@ -1,0 +1,235 @@
+# Claims & Stats Library — 226 claims
+
+⚠️ VERIFY = company-reported / speaker claim / compliance-sensitive — fact-check before publishing.
+
+## Company-reported (86)
+
+- COMPANY: Producing roughly $1 million a year earns 'a piece of ownership' (stock) at Annuity.com (Bruce: 'Just a million'). ⚠️ VERIFY _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- COMPANY: Cap the Company = >$5M production AND >$50K overrides in an anniversary year; all overrides afterward go to the agent. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- COMPANY/ANECDOTE: John took 6 months to cap in year 1, 3 months in year 2, and ~30 days/5–5.5 weeks in year 3. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- COMPANY: Typical overrides cited: 1.5%, 2%, or 2.5% by carrier, ~2% average; less for MYGAs and SPIAs. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- COMPANY: LeadPro subscribers now get free leads out of the Financialize relationship; Annuity.com has invested in organic search so unpaid inbound leads arrive. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- COMPANY: Agents grew from ~300 (June) to 491 at end of August (≈496 at the call); 98 new agents in August; goal 'knocking on the door of 500'. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Company says many large IMOs have <400 agents; Annuity.com is 17 months old. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: 19 agents are owners; '699 unlicensed agents' and 15 in pre-licensing courses; 'over a million dollars in production over the last 12 months' [unclear caption – likely mis-scaled]. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Austin seminar training events sold out for the rest of the year. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Share valuation range $6–$9/share per NY investment-bank work vs $1/share a year ago; a capping agent's 15,000 shares = $90K–$135K; two-tranche agents hold $180K–$270K. ⚠️ VERIFY _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Hawaii market opened last week; 12 new agents sponsored 'yesterday' with ~30 more pending. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Chris Harding added 56 team members in August; top agency builders: Chris, Rodell Razer, Brian Beavers, Steve Kirby. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: August records — John Stevenson 22 policies; Roy Snar 11; Garrett Burrow 10. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Lead provider that sold leads at $700–$1,000 each will now offer them on a commission split (not taken by Annuity.com) to qualified senior annuity agents; test rolling out 'next week' to a few agents. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- COMPANY: Closing Room runs Tuesdays 11:00 a.m. Pacific; Hegna leads two weeks a month; replays on YouTube and an Agent HQ library coming. _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- COMPANY: Over 5 million Americans struggle with Medicare costs/IRMAA; Brett says people are being charged up to $6,000+ [unclear: '70% of population' caption garbled]. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Commissions range from ~1% on a MYGA ('a MA') to as high as 8% on an FIA; on avg $150K policy = ~$3K–$10K commission. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Example: $150K policy at 5% = $7,500; agent could earn $1,500 for setting appointment (80/20 split), growing to full $7,500. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Annuity.com pays 100% street commission; senior-advisor split decided case by case ('all but 20%' for case design help). _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Free to join; no buy-in, no IMO fee; LeadPro optional; includes Tom Hegna On Demand. ⚠️ VERIFY _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Licensing: life license required; ~4–8 hours annuity suitability once for all carriers; 50% off training company fee; carrier appointments take minutes. ⚠️ VERIFY _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Perks: annual stock option program, agency builder (7 degrees), annual production bonuses up to 100% of overrides. ⚠️ VERIFY _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: Brett just wrote two checks of $4,500+ to Medicare-only agents who had never sold annuities. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- COMPANY: 600 agents at ~18 months old; (earlier calls: 491 in Aug 2025). _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: 60+ carriers; 2,400+ annuity products; ECA Marketing provides back-office support. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: 100% street commission, no IMO fee; cap at $5M personal production; up to $15,000 stock per year on milestones; agency builder to 7 degrees; 50% of company earnings in program shared. ⚠️ VERIFY _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: Annuity.com is free to enroll; LeadPro: $299 implementation + monthly fee (caption '$1.99/month' unclear); marketing tools '$790 value' [unclear]; Tom Hegna On Demand $97/month free for LeadPro subscribers from Jan 1. ⚠️ VERIFY _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: Written agreement that agents won't be held captive (John Stevenson). _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: Brett projects $50–100B annual annuity distribution; eXp is #3 brokerage; Keller Williams sells 2x former competitors combined. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: Roy Snar's 'Annuity Producers' free webinar Thursdays 11am Central. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- COMPANY: AI agent assist available now on OpenAI GPT; proprietary version 2026. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- Company never makes more than ~$50,000/yr per agent under the cap program. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Company/announcement: ~$25 trillion in mutual funds vs. accumulation annuities opportunity; AOS launch webinar next day 11am PT. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Company: next week's closing room doubles as all-hands with recognition and new tool announcements. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Company claim: 5M+ Americans are hit by IRMAA each year; 60-70% have a Social Security tax issue. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company claim: IRMAA checker example shows $1,000-$6,000 extra fees; SS example (married filing jointly, $24K SS, $18K other income, $20K RMD) shows extra $6,842 from tax torpedo. ⚠️ VERIFY _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company claim (Bruce Jensen research): at least $250K/year of annuity sales sits in almost every Medicare agent's current portfolio. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company: split commissions let Medicare agent earn 60% (appointment, fact-finding, application) while specialist does case design/presentation. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company: over 65 carriers; appointment with 8 carriers took 15 minutes (Brett's anecdote); 'just-in-time' appointment possible. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company: stock awards $1,000/$4,000/$10,000 at $1M/$3M/$5M; at $5M cap our earnings; Agency Builder earns on 7 layers; Wednesday 10am PT call. ⚠️ VERIFY _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Company: RAMP, tools and script free; 'we don't get paid unless you have success'; no training fee/6-8 month ramp. ⚠️ VERIFY _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- COMPANY: 100% street commission; agents have reported earning $200K more than elsewhere; one 10M/yr agent's IMO quietly kept $350K/yr. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: stock awards $1,000 at $1M, $4,000 at $3M, $10,000 at $5M production = up to $15,000/year; real stock not phantom. ⚠️ VERIFY _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: first $5M — half the override invested in Agency Builder; after $5M company override goes to agent; est. ~$500K more over 5 years for $10M producer (speaker's estimate, garbled). _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: over 60 carriers, 2,400 products; ~900 agents; ~2+ years in business; no marketers on payroll. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: LeadPro $552 value for $1.99/month [unclear]; one policy every 3 years pays for it; avg case $150K. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: client example—doctor with $1.2M freeing up said 'I want a MYGA'; consumers found via AI. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: onboarding orientation every Monday; online training within 7 days; join at joinannuity.com or agent-specific link. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: CORE back office launched July 1, free to agents. _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- COMPANY: June top 10 — Roy $3M, Amanda $2.8M, John Stevenson ~1.6M, Matthew O $650K, Steve Kerbury $383K, Michael Sullivan $281K, Betty Ariano $265K, Ali Alsad $250K, Jennifer Cunningham $250K, James Giants $229K. _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: John Stevenson was doing $5–12M/yr; first year capped company, second quickly; run rate $50M this year. ⚠️ VERIFY _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: Amanda took ~11 months year 1 to cap, 3 months in year 2; Brett expects $15–20M. _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: stock — $4,000 at $3M; $10,000 at $5M; value 'at all-time low' now. ⚠️ VERIFY _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: Google didn't recognize duplicate About Me/find-an-agent pages; rewritten profiles are now unique/SEO optimized. _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: LeadPro includes Tom Hegna On Demand (usually $79), content library, 2x monthly newsletter, testing weekly rate update email; one case pays for 3 years. ⚠️ VERIFY _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: Core launched July 1; tools free to agents. _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: need 100,000+ new agents; no marketers recruiting; goal is arming agents with client relationships (Medicare, life, P&C). _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: annuity.com added own rating system for rates/terms. ⚠️ VERIFY _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- COMPANY: over 600 agents at end of October 2025; 'fastest growing IMO'; Brett CEO Jan 2024. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: 60+ carriers, 2,400 products; named carriers MassMutual, New York Life, Allianz, Pacific Life etc. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: Bill helped agents reach 40M, 30M, 30M, 12M annual production. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: keep 100% street; cap at $5M; Agency Builder 7 degrees; stock up to $15K/year at $1M/$3M/$5M. ⚠️ VERIFY _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: recruiting two top producers a year for five years suggested as path to 'million-dollar retirement' asset. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: LeadPro $299 one-time + $1.99/mo [unclear; likely $199/mo]; no fees to join; 197 free marketing tools valued at $791 [unclear]; Tom Hegna On Demand $97 value free Jan 1. ⚠️ VERIFY _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: LeadPro features: birthday automation, annual review emails 30 days ahead, appointment reminders, biweekly newsletter with open/click tracking, branded website, email, business phone, find-an-agent. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: Onboarding — enroll, train (online within 7 days or Monday live session), pick performance pathway community; app.annuity.com training center launched. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: No marketers/recruiters; recruiting heavily to fill find-an-agent map. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- COMPANY: ~$2.3 trillion annual guaranteed-income opportunity (retirees with 401(k)/IRAs). ⚠️ VERIFY _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: 900+ agents enrolled, 800+ licensed, ~430 contracted with a carrier; 80+ carriers available. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Real-estate comparison company took six years to enroll 864 agents; annuity.com claims to be ahead. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Claims agents will write up to 70% more business with the intelligence systems. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Policy intelligence system targeted to launch within 6 months; Core already launched. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Lead Pro subscribers began receiving company-acquired leads 'yesterday'—est. 1 to 3 per week depending on location/licensing. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Lead Pro is $199; Brett says bundle would cost almost $1,000 with leads; website redesign for AI/local search coming within about a week. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Stock: ~$15,000/yr restricted stock potential (production tiers $1M/$3M/$5M), same amount as board members; vests. ⚠️ VERIFY _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY: Aspiration: 5% market share = $100B annual annuity sales. ⚠️ VERIFY _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY/ANECDOTE: Producers seeing $10–12M/yr via Medicare-agent relationships; one agent couple has $120M built from ~50 Medicare agents. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- COMPANY ANECDOTE: Agent with $10M production earned $250K vs $600K full street; IMO kept $350K. _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY: 60+ carriers, 2,400+ products; 800+ agents; ~5x faster growth than average IMO. _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY: Seminar costs below $4,000 per Roy Snarr's team; ~20% show rate guidance; Keith's seminar: $3,000, ~100 registrations, room at 55 capacity within 10 minutes; advice to run six in 3 months. ⚠️ VERIFY _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY: Lead Pro worth >$500 separately; priced (caption) '$1.99 a month' [unclear: likely $199]; one below-average $100,000 sale pays for ~3 years of Lead Pro (consistent with ~$199/mo? arithmetic unclear). ⚠️ VERIFY _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY: Lead Pro agents receiving calls from AI-referred clients today. _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY: Top producers with 12M/15M/30M volumes (caption muddled [unclear]). _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- COMPANY (Social Security Advisors): 18 years advising; advisors ex-SSA 15–20+ years; most experience and best win rates nationwide (self-reported). ⚠️ VERIFY _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- COMPANY (SSA-advisors pricing): analysis from $124.95 simple single case; retirement claim filing $99.95; married/divorced/survivor analysis $250; some spousal filings near $200; retroactive cases charged % of recovery; IRMAA appeal $199.95 single, $400 married; troubleshooting custom; satisfaction guarantee; no upfront certification fees ⚠️ VERIFY _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- COMPANY: IRMAA appeals can yield $4,000–$6,000 checks (example given); advisors have 15+ years doing appeals. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+
+## Educational / industry (140)
+
+- EXAMPLE: $100,000 sold at 7% = $7,000 street commission; expect ~$2,000–$2,500 override if capped. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- EXAMPLE: $1M/month production ≈ $70K commission + ~$20K overrides, which John would reinvest in marketing (seminars, mailers). _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- ANECDOTE: John lost a $1M rollover client because she couldn't find him online – ~$70K commission lost. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- John's book cost about $25,000 to produce; he says brand matters more than the book; uses book as a post-sale gift. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- EXAMPLE (Annuity Genius, caption-noisy): $800K, 5-year MYGA top rate around 6.15–6.3%, grows to ~$1.078M after 5 years; a top rated carrier allowed 10% free withdrawal after year 1. ⚠️ VERIFY _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- EXAMPLE: Global Atlantic income rider on $800K: benefit base grows to ~$1.2M with 10% simple roll-up; at ~8.02% withdrawal ≈ $96K/year for life vs ~$86K/yr from annuitizing the $1.078M MYGA at 8%. [Numbers partly unclear in caption.] _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- Commissions John has seen: MYGAs as low as ~0.5%–1.5%; income riders ~7% + ~2.5% override. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- John says he does not follow up with prospects anymore; a very small number (1–2) of sales close without a meeting; most still meet by Zoom after multiple video replies. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- An applicant John 'pushed away' ('maybe you shouldn't buy an annuity') ended up submitting two applications. _(0bjc2xeBdGw_The Closing Room November 10 2026)_
+- INDUSTRY: 10–11K retirees per day; $80T retirement savings gap; 54% of consumers say they'd buy an annuity when informed vs 12% who have = $2.3T annual opportunity; industry up 98% since 2020 from $219B to $434B. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- INDUSTRY: Experts predicted 2025 decline due to fewer, older annuity agents; Brett says 2025 is as strong as 2024. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- Brett: $90T+ in rollovers available; 5% of $2.3T market ≈ $50–100B annual production (company ambition). _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- Senior annuity agents must produce ≥$100K new business with Annuity.com and subscribe to LeadPro. _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- Race to a Million: top earner stock projected ~$2M value; additional $1–3M total pool for others; planned launch Oct 1. ⚠️ VERIFY _(16JuoMm8lGU_The Agent Advantage - September 2)_
+- EDUCATIONAL: Hegna: ~90% of objections are false objections. _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Only variable annuities and optional riders have fees; MYGA, SPIA, DIA, base FIA are not fee products. ⚠️ VERIFY _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: SS taxation thresholds not indexed since 1994: single >$34,000 or married >$44,000 provisional income can lead to 85% taxation; includes tax-free muni interest and half of SS. ⚠️ VERIFY _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Average mutual fund turnover ~100%, so little qualifies for capital gains (Hegna). _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: 1% advisory fee for 25 years ≈ 25% of assets in fees; commission is paid by insurer, not deducted from client's deposit. ⚠️ VERIFY _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Hegna: 35% of the population won't buy an annuity; 35–40% want market + annuity; ~25% want all annuity (RISA segmentation). _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Boston College CRR: 54% of retirees with ≥$100K assets said they'd want an unnamed guaranteed-income product; <12% of retirees own guaranteed income. ⚠️ VERIFY _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Brett: guaranteed income opportunity: ~$465B market vs $2.3T demand; ~$20T accumulation market; LTC affects ~70% of retirees. ⚠️ VERIFY _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Fall is 'CD season' tied to crashes (Oct 1987, 2000, 2008, COVID); CDs paid 8–10% in 1987. _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: A person can average 10% and withdraw 5% yearly and still go broke due to sequence risk (Hegna). _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Hegna owns 13 annuities, 4 pensions (US Army, MetLife, 2 New York Life) and has not yet taken Social Security. _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EDUCATIONAL: Wealth Logics webinar showed annuity-with-market beats market-only in distribution phase; Hegna says AI would support annuities in portfolios. _(2TkZcDxcB5Y_The Closing Room with Tom Hegna)_
+- EXAMPLE: Tax torpedo check sample — $24,000 SS + $18,000 other + $20,000 RMD, MFJ; tool outputs an $11,000 drag and extra '$6,800 a month' [unclear; likely per year]; share of SS taxed from 0 to 46%. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- EXAMPLE IRMAA: Part D over $500/month, $200–500K IRA, RMD $10–30K → tool estimates paying $?,000–$6,000 more [caption 'a,000']. _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- Claim: Medicare agents face commission cuts, falling renewals; CMS rules bar discussing non-Medicare topics in a Medicare appointment but allow separate outreach. ⚠️ VERIFY _(7snUUPD2nS4_Medicare Agents Selling Annuities)_
+- INDUSTRY: Annuity industry grew 98% from 2020–2024; Boston College thinks opportunity ~$1.9T; $32T wealth transfer; 10K retire daily; most retire without pension. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- Brett illustration: 10% total commission split 3% company/7% agent. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- Testimonial: A $100,000 deal = $7,000 commission, 'more than covers' LeadPro cost. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- Brett's example: agent whose family lost income within months/18 months of retirement; says retirement experts lack retirement plans. _(9oNcPasPb8E_Opportunity Call 11-5-2025)_
+- Annuity.com CEO: estimated ~$49 trillion in retirement income money, some estimates $400T in a decade; accumulation opportunity ~10x the guaranteed income opportunity; $2–4T re-homed yearly from IRAs/401(k)s, ~54% seeking guaranteed income. ⚠️ VERIFY _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Genesis: created original index annuity in 1995; 17 patents, ~10 pending; tracking 32 years of back-test data. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Back-casting claims: par outperforms cap ~80% of time; 2-year par beats 1-year par 84% (90% dynamic); 1-year cap vs 2-year par: cap loses 90–92.5%; S&P positive 78% of last 50 years, 77 of 78 double-digit [as stated]. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Vol-target index: last 10 years lagged S&P by 23 bps, captured ~98% of S&P par rate and ~80% of Nasdaq par; 20-yr average 'S&P 103% vs vol index ~120%'; v2 index added ~16% extra over time vs v1 (presenter claim). ⚠️ VERIFY _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Illustration: $100k annual reset → 269 vs extendable 371 (25–40% more efficient); 7-yr hypothetical with 90% protected value 263 vs daily value 292 / 254 after crash. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Par rates started at 70% (S&P TCA) and 60% (Nasdaq); Friday rate increase announced: Nasdaq to 65%, TCA to 75%. ⚠️ VERIFY _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Cap version starts ~9% (back-test high 17.75%); bonus cap version peak 12.25%; cap does not apply retroactively. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Early renewal data: 19% of extended policies renewed at 52–59% par; 81% at 60–61% from 48% start with 12% bonus; cap policies renewed 5%→7.75% (55% increase). _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Dial-a-bonus example: $500k, 16% bonus → blended 8% effective bonus; par 45%→58%; 10-yr value 133k→153k per illustration. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- 10-year surrender, 7% free withdrawal after year 1; no fees or spreads; par version has no cap (a separate cap version exists); approved everywhere but NY and ME. ⚠️ VERIFY _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Compliance: replacement of contracts 2+ years old approved in 24–48 hours if bonus makes client breakeven or better; liquidity: 6 months if age ≤64, 12 months if 65+; VAs 1 year+ often OK. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Premium range: $15,000 minimum, $2.5M max (up to $5M with a call). _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Agent street comp: 100 bps special from now through end of November (as stated). _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Service: 22-second average phone answer, US call center, 4.9 Trustpilot (10,500+ reviews); presenters cite competitors 1.3–2.2 on Trustpilot. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Athos exclusive-ish: not available via Simplicity, Integrity (or their shops); built 'for truly independent' agents; Annuity.com agents appointed via Annuity.com SureLC, not ECA. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Athos has highest apps per producer among Nassau platform products (presenter claim); goal: 3 cases to 'click'. _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- 1-year TCA return cited as underperforming S&P due to choppy tariff/Iran-conflict market (presenter's explanation). _(BmoT342krzM_Carrier Spotlight- Zaghorn’s Atho)_
+- Industry sold >$460B annuities last year; >100% growth since 2020; market described as multi-trillion. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Example: $10M producer earned $250,000 at a prior IMO, missing hundreds of thousands. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- 60+ carriers, 2,400+ products; 800+ agents. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Stock valued by third party; grew 3.7x (370%) in under 18 months (Nov 2025–Feb 2026 valuations). ⚠️ VERIFY _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Stock grants: $1k @ $1M, $4k @ $3M, $10k @ $5M production; up to $15,000 per year. ⚠️ VERIFY _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Seminars average cost under $4,000 (~$3,500) and average nearly $500,000 annuity sales. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Lead Pro $199/month; bundle value $500–700/month; $100k premium alone could pay for years of Lead Pro. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Free enrollment includes carrier contracts, community, free joinannuity.com site. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- 40–50 million-dollar producers on platform; company aspires to go public. _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Agents get leads weekly across network; domain annuity.com recognized by AI (no lead promise). _(HoNsfbpz91o_The Agent Opportunity- Spring 202)_
+- Goal: earn $1,000+ in first 30–45 days; cost to agent is zero. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Average case ~ $150,000 annuity; commissions 2–7%; 70% of cases pay ~7% [as stated; 'seven 70 or 7%' caption unclear]; at 5%, carrier pays $7,500; 20% share = $1,500. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Commission split: 20% each stage (appointment, fact finding, case design, presentation, app/funding); agents can take up to 100%. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Requirements: life license; annuity suitability training (4 hours most states, 8 in California); can be done just-in-time; free AI-based license prep tool on website. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- 11,200 people retire daily in US; ~100,000 people know how to sell annuities (declining); 4x more Medicare agents than annuity agents; fewer than 10% own guaranteed-income annuities. ⚠️ VERIFY _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Over 80% of Americans die with their lump sum intact; income plans: portfolios do ~30% better on average, less stress, longer life (claims as stated, no source cited). _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Medicare context: commissions cut, competition up, renewals at risk. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Kathleen testimonial: one script use → $200k sale; two further families $600k and $200k scheduled. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Training takes no 12-hour classroom; no tool/join fees. ⚠️ VERIFY _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Annuity.com pays 50% of what it makes into the agency-builder program; does not take money from agents to pay others. _(KM23-bEW2cs_RAMP- Fall 2026)_
+- Sept 2026 top producers: John Stevenson just over $2M; Roy Snarr ~$1.6M; Steve Dibwad ~$1M+; Dr. Amanda Barrientos $465k; Jennifer Cunningham $250k; Garrett $235k; Tim Davis $234k; John Egan $216k; AJ Torres $205k; Christie Dunn $150k. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Most policies: Roy Snarr 15, John Stevenson, Brian Beavers 8. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Stock awards: Steve Dibwad and Jennifer Cunningham $1,000 (hit $1M); Roy Snarr $5,000 total (hit $3M); AJ $5,000; four first-time producers. ⚠️ VERIFY _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Guaranteed income market ~ $2.3T opportunity; >$25T in mutual funds, expected $100T in a decade. ⚠️ VERIFY _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Athos: not yet appointed at time; LIMRA training link sent; SureLC link coming; not available through ECA; 15 days after year 1 to roll into 2-year point-to-point; locks in 90% of year-1 gain; participation increases retroactively (~4%+ more, per Brett); year 5–7 participation can exceed 100%; Brett will invest personal funds. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Athos described as first product allowing daily index tracking and daily credit at death; claims FIA index returns were dragged by bond components. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Malibu Life/Legacy: PillarMark and SpireMark launching; training to be scheduled. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Bill: 91% of prospects Google you (attributed to Amazon [sic]); target market ≤$400k assets; appointment-setting caller ratio ~85% of list; each 1,000 database names → 70–110 replies, ~20 good phone responses, ~2 sales/month (Roy Snarr's records); ~75% of Bill's production came from grow/harvest/replant; best selling months Jan/Apr/Jul/Oc _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Bill sold SP10 ST (Great American): any-time conversion to lifetime income; 3% minimum guaranteed interest. ⚠️ VERIFY _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Agents getting leads: multiple agents weekly, most about monthly; brettblake.annuity.com ranks first for 'Brett Blake annuity'; profile updates in Agent HQ optimize find-an-agent and personal site via AI; Google favors local agents. _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Weekly schedule: Tue Closing Room 11am PT (+ RAMP 5pm), Wed intro to Annuity.com 8am & 'Maximize your compensation' with Bruce, Thu Annuity Producers call (Roy Snarr) + RAMP 2pm, Fri RAMP + tech call; every third Tuesday All Hands (5 min recognition, 40 min training, 15 min updates). _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- Reverse mortgage funds can't be used to buy annuities (Bill: illegal). _(QmmK47RDESg_ALL HANDS + THE CLOSING ROOM with)_
+- CORE is live (beta) with real imported orders; imports may show discrepancies; real-time updates but numbers finalize after month close. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Log in at commission.annuity.com (singular); login seamless across systems. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Dashboard shows personal production and company-dollar progress toward $1M/$3M/$5M; recent orders, paid/in-good-order status; FLP progress to next tier; downline hierarchy; customer list. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Earnings drill-down: month → bonus category → agent → policies/carriers; no customer data shown to other agents. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Orders entered through Firelight flow in automatically; others are found from carrier and entered by Annuity.com operations. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Built-in support email per order; threads reply-all and integrate with system; same view for internal team. ⚠️ VERIFY _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- E-wallet: commission payments via AgentPay start first Monday after July 4; replaces Mercury; all agents must register new banking; auto-withdraw option. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Each transfer to bank costs $1.50 (ACH). _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Marketing wallet example: $10,000 commission, move $2,000 → 1099 shows $8,000; funds restricted to approved marketing expenses; Brett frames it as buying marketing credits. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Chargebacks show in red and draw down future street commission/overrides; Rebel 1 charges back first-year distributions. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Premium additions treated as new policy on addition date. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Prior attempt (as president of another company) cost >$4M, nine developers, almost a year, never launched; current team smaller and custom. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Previously third-party tools meant slow bids/turnaround; custom development enables fast iteration. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Plans: maturity alerts for MYGAs, aggregated carrier commission visibility, integration with Lead Pro and Agent IQ; LOA (letter of authorization) structure under consideration. _(U4xWC9h9YC8_CORE & AgentPay Live Walkthrough)_
+- Dr. Amanda went from zero to a little over $5M in first year and ~$5M in <90 days in second year (per host). _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Dr. Amanda licensed in 31 states; works only by phone/Zoom from home office. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Spends ~$100-150 per YouTube video promotion; works ~80% of the time (blocked for political/'claim' wording). _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- All her appointments come from YouTube other than referrals. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- YouTube is the second-largest search engine (her statement). _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Posting cadence flexed from 1 long+1 short weekly to every two weeks as calendar filled. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Annuities ~ large share of her business; also high-cash-value whole life and some LTC; does Roth conversions with annuities. _(V54JHnUl5eE_The Closing Room - Fall 2026)_
+- Example math: $150K average policy at 5% = $7,500 street commission; 20% = $1,500 'more than most Medicare cases'. Speaker misstated an average of ~$7,000/'77%' [unclear]. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Requirements: life insurance license, 4-8 hours annuity suitability, possibly AML, carrier appointments. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Quoted ex-Humana executive: Medicare agents will have to sell annuities as commissions and renewals are cut. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- Contact emails: support@annuity.com, advancedplanning@annuity.com. _(dyq2SWr5K4I_Intro to Annuities for Medicare A)_
+- EDUCATIONAL/INDUSTRY: annuity sales >$460B heading to $2.5T; 11,000 retire daily; most retirees want guaranteed income but don't know annuity provides it. ⚠️ VERIFY _(jvS-aHf_reo_Agent Opportunity, Summer 2026)_
+- EDUCATIONAL: local search stats — 98% use internet to find local businesses; 'near me' grew 200%; 78% local mobile searches lead to offline purchase in 24h; 44% of local clicks go to top 3 Google map results. _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- EDUCATIONAL/INDUSTRY: 89% of retirees never spend more than 10% of retirement savings; 11,200 seniors retire daily; 54% want guaranteed income, <20% have it; $1.7–2.3T opportunity; MYGAs excluded. ⚠️ VERIFY _(jwoA3k7TFjc_ALL AGENT SUMMIT EVENT with CEO, )_
+- EDUCATIONAL: annuity sales doubled from $219B (2020) to $434B last year; 'over 50 billion this year' [unclear, likely ~$500B]; only 12% of Americans own annuities; 1 in 4 can define one. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- EDUCATIONAL: 54% say 'I want that' when explained; $1.5T opportunity; 10,000 retirees/day; $32T assets. _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- EDUCATIONAL: BlackRock statement; exec says much of ~$20T in mutual funds will migrate to annuities. ⚠️ VERIFY _(lYtwKtNBRRE_Opportunity Call 11-12-2025)_
+- December is always the #1 month for life insurance and annuity production (company/MDRT year-end). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- A joint-life SPIA with 50% death benefit can potentially pay out about $2.6M on a $100,000 premium across grandparent, grandchild and great-grandchild (Hegna illustration; New York Life contract; inflation option). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Great-grandchild would receive $50,000 tax-free on a $100,000 premium with 50% death benefit (Hegna). ⚠️ VERIFY _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Fewer than 1% of agents know the five-lifetimes-one-annuity structure (Hegna's estimate). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Joint SPIA payout is based on the younger annuitant's age, so payout rate is lower. ⚠️ VERIFY _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Hegna's 12-pay whole life premium was $226,000/yr; he put in about $2.3M and cash value is about $3.8M (year 15–16). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Hegna saved 30–40% of income for his whole career and says he has paid no interest in 35+ years. _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Research cited by Brett: roughly 60–70% of people plan to change financial advisor after death of a spouse or parent. _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Per Matthew Allen (via Brett): Social Security is often a ~$1M+ asset; $2,500–$2,800/mo per person, ~$3,500/mo couple would take almost $1M in an immediate annuity to replace (Hegna). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- An annuity.com agent closed a $200K MYGA from a Find-an-Agent page lead from Florida. _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Fidelity sells billions of annuities and its AUM rose after it did (Hegna). _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- Don't Worry, Retire Happy story: newly divorced woman at 55 with almost nothing retired at 71 with more income than ever by saving heavily, delaying Social Security and working to 71. _(nHAh12_2Wsg_The Closing Room- November 2026)_
+- MARKET: Annuity sales grew from $219B to $464B since COVID; mutual fund industry is a $22T opportunity for accumulation-style products. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- MARKET: ~100,000 trained, producing annuity agents and declining; up to 70% of business is repeat business from existing annuity owners. _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- EDUCATIONAL/RESEARCH: Wealthy retirees fear spending; guaranteed income linked to less stress and longer life (Brett's characterization of research). ⚠️ VERIFY _(nHXxU8t5qaI_The Agent Opportunity- November 2)_
+- MARKET: $460B annuity sales in 2025, >100% growth since COVID; 11,200 Americans retire every month; >$2T annual opportunity. _(sIVRC4CoaKk_Opportunity Call - April 2026)_
+- EDUCATIONAL: ~70% of Americans don't maximize Social Security; costs a typical married couple ~$120,000 lifetime; >$25B per year system-wide. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: 2,728 rules and over 9,200 strategies for a typical married couple; lifetime benefits >$1M for typical couple. ⚠️ VERIFY _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: OIG 2018 report: 82% of ~100,000 sampled survivor cases got wrong information from SSA. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL EXAMPLE: John/Susan: both $2,000 at FRA; Susan claims survivor at 60 ≈ $1,437/mo, own benefit at 70 ≈ $2,640 → ~$221K advantage (average life expectancy), ~$270K if longer-lived. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: 54.8% of people rely on Social Security for >50% of monthly income. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: Trust fund projected depletion 2032 (latest Trustees Report cited); ~78 workers per 100 retirees; ~22% funding gap; 85% of benefits taxable now (Allen predicts 100%). _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: 2026 earnings test $24,480, $1 withheld for every $2 over. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: ~3.2 million people have non-covered pensions affected by WEP/GPO; Fairness Act benefits retroactive to January 2024 (>2.5 years). _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL EXAMPLE: $100K LLC profit incurs $15,300 (15.3%) payroll tax; S-corp with $30K reasonable salary: $4,590 payroll tax, saving ~$10,710. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EDUCATIONAL: Bracket C of PIA: only ~15 cents per additional dollar. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
+- EVENT: Matthew Allen returns for IRMAA 2027 session Dec 9, 10:00 AM Pacific / 11:00 AM Arizona. _(txVBQNelyZs_Maximizing Your Client’s Social S)_
